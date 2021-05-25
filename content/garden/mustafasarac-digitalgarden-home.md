@@ -1,13 +1,6 @@
-# Home
-## mustafasarac-digitalgarden-home.md 2
-### mustafasarac-digitalgarden-home.md 3
-#### mustafasarac-digitalgarden-home.md 4
-##### mustafasarac-digitalgarden-home.md 5
-###### mustafasarac-digitalgarden-home.md 6
+# Anasayfa
 
-
-## Blog yazıları
-- [[ben]]
+## Blog yazılarım
 - [[almanya-gunlukleri-1]]
 - [[almanya-gunlukleri-2]]
 - [[kostum]]
