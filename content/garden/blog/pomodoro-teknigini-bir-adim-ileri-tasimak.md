@@ -1,18 +1,10 @@
----
-title: 'Pomodoro Tekniğini bir adım ileri taşımak | Molalara odaklanın!'
-date: '2021-01-19T16:06:56+03:00'
-status: publish
-permalink: /pomodoro-teknigini-bir-adim-ileri-tasimak
-author: 'mustafa sarac'
-excerpt: 'Molaları verimli geçirmek ile ilgili (5 dakika)'
-type: post
-id: 275
-category:
-    - Genel
-tag: []
-post_format: []
----
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/Iy82xNocUVE?feature=oembed" title="Pomodoro Tekniğini nasıl bir adım ileri taşırsınız?" width="500"></iframe></div></figure>Bu yazı Pomodoro Tekniğini uygulayanlar ya da uygulamayı düşünenler için farklı bir metodolojiyi konu almaktadır.
+
+# Pomodoro Tekniğini bir adım ileri taşımak | Molalara odaklanın!
+**Molaları verimli geçirmek ile ilgili (5 dakika)**
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/Iy82xNocUVE?feature=oembed" title="Pomodoro Tekniğini nasıl bir adım ileri taşırsınız?" width="500"></iframe></div></figure>
+
+Bu yazı Pomodoro Tekniğini uygulayanlar ya da uygulamayı düşünenler için farklı bir metodolojiyi konu almaktadır.
 
 Pomodoro Tekniğini öğrendiğimden bu yana, aktif olarak her gün kullanmaya çalışıyorum. Biliyorum ki ne zaman bu yöntem ile çalışmaya başlasam, zamanımı daha verimli geçiriyorum ve sonuç alıyorum.
 
@@ -46,7 +38,9 @@ Bunun gibi şeyleri her 5 dakikam için rasgele sırayla yapabilirdim. Böylelik
 
 Bu zamana kadar bir çok pomodoro uygulaması denedim. Hiçbirinde böyle zamanı parçalara bölebileceğim bir özellik bulamadım. O yüzden daha önceden keşfettiğim, sporcular için zaman tutmaya yarayan Intervals Pro’yu kullanmaya karar verdim. Kendi içerisinde 1 er dakikalık spor aktiviteleri oluşturdum ve bu şekilde kullandım. Aslına bakarsanız böyle bir pomodoro uygulamasına ihtiyaç var. Sonraki projem bu olacak gibi 😉
 
-<figure class="wp-block-image size-large is-resized">[![](../uploads/2021/01/Untitled.png)](https://mustafasarac.com/wp-content/uploads/2021/01/Untitled.png)</figure>**—Ne faydasını gördüm, nasıl hissettim?**
+[[intervals-pro-screenshot.png]]
+
+**—Ne faydasını gördüm, nasıl hissettim?**
 
 Bu 5 dakikaları bölüp kullanmaya başladıktan sonra, artık sanki benim için 25 dk.’lık işlerim değil, bu 5 dk.’lık molalarım daha eğlenceli hale gelmeye başlamıştı. Bir an önce işim bitse de 1 dk. squad yapsam… Etkisi sandığımdan çok daha güçüydü benim için. Acaba plasebo etkisi olabilir miydi? Yani sonuçta sadece bende mi böyle çalışıyordu, yoksa başkalarında da işe yarar mıydı?
 
@@ -95,27 +89,4 @@ Bu yöntemi kesinlikle denemenizi, özellikle de sizde ne gibi bir etkisi olaca�
 
 THE POMODORO TECHNIQUE by Greg Head, Ep 61
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/cH-z5kmVhzU?feature=oembed" title="THE POMODORO TECHNIQUE by Greg Head, Ep 61" width="500"></iframe></div></figure><script>(function() {
-	window.mc4wp = window.mc4wp || {
-		listeners: [],
-		forms: {
-			on: function(evt, cb) {
-				window.mc4wp.listeners.push(
-					{
-						event   : evt,
-						callback: cb
-					}
-				);
-			}
-		}
-	}
-})();
-</script><form class="mc4wp-form mc4wp-form-245 mc4wp-form-theme mc4wp-form-theme-light" data-id="245" data-name="Bu yazıyı beğendiniz mi?" id="mc4wp-form-1" method="post"><div class="mc4wp-form-fields"> Bu yazıyı beğendiniz mi? O zaman e-posta bültenine kaydolarak yeni yazılardan haberdar olabilirsiniz.
-
- <label>Adınız</label> <input name="FNAME" type="text"></input>
-
- <label>E-mail adresi: <input name="EMAIL" placeholder="E-posta adresiniz" required="" type="email"></input></label>
-
- <input type="submit" value="Kayıt ol"></input>
-
-</div><label style="display: none !important;">Leave this field empty if you're human: <input autocomplete="off" name="_mc4wp_honeypot" tabindex="-1" type="text" value=""></input></label><input name="_mc4wp_timestamp" type="hidden" value="1621836811"></input><input name="_mc4wp_form_id" type="hidden" value="245"></input><input name="_mc4wp_form_element_id" type="hidden" value="mc4wp-form-1"></input><div class="mc4wp-response"></div></form>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/cH-z5kmVhzU?feature=oembed" title="THE POMODORO TECHNIQUE by Greg Head, Ep 61" width="500"></iframe></div></figure>

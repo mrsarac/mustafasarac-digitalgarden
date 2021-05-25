@@ -1,21 +1,5 @@
----
-title: 'Yazıları hızlı bir şekilde webde yayımlamak'
-date: '2021-03-20T00:15:32+03:00'
-status: publish
-permalink: /yazilari-hizli-bir-sekilde-webde-yayimlamak
-author: 'mustafa sarac'
-excerpt: ''
-type: post
-id: 409
-category:
-    - Genel
-tag: []
-post_format: []
-sha:
-    - 255a74729bdaf5cb43089dddec8af32b6d1adf2f
-github_url:
-    - 'https://github.com/mrsarac/mustafasarac-blog/blob/master/published/yazilari-hizli-bir-sekilde-webde-yayimlamak.md'
----
+# Yazıları hızlı bir şekilde webde yayımlamak
+
 Akışı sağlamak
 --------------
 
@@ -45,7 +29,7 @@ Content type: JSON
 Secret: **** <- buraya rastgele bir parola yazdım
 Just the `push` event.
 ```
-
+--------------------------
 WordPress eklenti ayarları
 --------------------------
 
@@ -59,6 +43,7 @@ Github username/owner: mrsarac <- benim gitHub profilim
 Repository name: mustafasarac-blog <- oluşturduğum projenin adı
 Folder to publish from: published <- yayınlayacağım dosyaların bulunacağı klasör
 ```
+--------------------------
 
 Burada verdiğim KEY’i “Git it write” eklentisinin ayarlar sayfasında da bu anahtarı kullandım / kaydettim. Böylelikle bendeki master ile web sitem arasındaki ilişkiyi kurmuş oldum.
 
@@ -72,6 +57,7 @@ Terminalden projeyi çağırdım.
 ```
 git clone git@github.com:mrsarac/mustafasarac-blog.git <- projenin git URL'i
 ```
+--------------------------
 
 Daha sonrada dosyalarımı ‘published’ klasöründe olacak şekilde kaydettim ve git’e gönderdim.
 
@@ -99,6 +85,7 @@ custom_fields:
 ---
 
 ```
+--------------------------
 
 Sonrasında…
 
@@ -107,6 +94,7 @@ Git’e dosya gönderelim.
 ```
 git commit -m "GitHub üzerindeki ilk yazım"
 ```
+--------------------------
 
 Ve gönderdiğim dosya anında yayınlandı.
 
@@ -119,7 +107,3 @@ Bu kadar
 --------
 
 Bu yazıyı da ilk yazım olarak bu senkronizasyon dosyasına bırakıyorum ve git commit’i yapıyorum.
-
-Yazılarımı beğendiniz mi? İsterseniz haftalık haber bültenime abone olabilir ve düzenli olarak paylaşımlarımı takip edebilirsiniz.
-
-<div id="revue-embed"> <form action="https://www.getrevue.co/profile/mustafasarac/add_subscriber" id="revue-form" method="post" name="revue-form" target="_blank"><div class="revue-form-group"> <label for="member_email">Email address</label> <input class="revue-form-field" id="member_email" name="member[email]" placeholder="Your email address..." type="email"></input></div><div class="revue-form-group"> <label for="member_first_name">First name <span class="optional">(Optional)</span></label> <input class="revue-form-field" id="member_first_name" name="member[first_name]" placeholder="First name... (Optional)" type="text"></input></div><div class="revue-form-group"> <label for="member_last_name">Last name <span class="optional">(Optional)</span></label> <input class="revue-form-field" id="member_last_name" name="member[last_name]" placeholder="Last name... (Optional)" type="text"></input></div><div class="revue-form-actions"> <input id="member_submit" name="member[subscribe]" type="submit" value="Subscribe"></input></div><div class="revue-form-footer">By subscribing, you agree with Revue’s [Terms](https://www.getrevue.co/terms) and [Privacy Policy](https://www.getrevue.co/privacy).</div> </form></div>

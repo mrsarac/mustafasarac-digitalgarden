@@ -1,19 +1,3 @@
----
-title: 'one page bir tasarım hikayesi &#8211; phione'
-date: '2014-07-23T13:08:44+03:00'
-status: publish
-permalink: /one-page-bir-tasarim-hikayesi-phione
-author: 'mustafa sarac'
-excerpt: ''
-type: post
-id: 41
-category:
-    - Genel
-tag: []
-post_format: []
-dsq_thread_id:
-    - '2866496957'
----
 Bu yazı ben de yapmak istiyorum ama bir türlü vakit ayıramıyorum diyen arayüz tasarımcısı arkadaşlarıma ithafen yazılmıştır. Yol göstermesi dileğiyle.
 
 **Projeyi tamamlamak ne kadar vaktimi aldı?**
@@ -59,7 +43,11 @@ Altın oranı bir çok tasarımcı biliyordur. Phi sayısı (1.618) Fibonacci se
 
 Ben de buradan esinle Phi ve dizinin ilk serisinden 1 rakamını kullanarak “[PhiOne](http://themeforest.net/item/phione-onepage-parallax-responsive-html-template/6997227)” ismini çıkarttım. Kafamda zaten “One Page” (tek sayfa) yapmak olduğu için de uyumlu oldu. Fonetik olarak **iph**one olarak da okunduğunu sonradan fark ettim. Google otomatik tamamlama “phione” ın doğru olmadığını söylüyor 🙂 Çokta sorun etmedim ama. Tabiki phi’yi sadece isimde kullanmadım. Site tasarımının bir çok yerine uygulamaya çalıştım.
 
-[![2014-02-08_0944](http://mustafasarac.com/wp-content/uploads/2014/07/2014-02-08_0944.png)![h1-title](http://mustafasarac.com/wp-content/uploads/2014/07/h1-title.png)![2014-02-08_0238](http://mustafasarac.com/wp-content/uploads/2014/07/2014-02-08_0238.png)](http://mustafasarac.com/wp-content/uploads/2014/07/2014-02-08_0944.png)
+![2014-02-08_0944](/2014-02-08_0944.png)
+
+![h1-title](/h1-title.png)
+
+![2014-02-08_0238](/2014-02-08_0238.png)
 
 **Kağıt çizimler:**
 
@@ -69,7 +57,7 @@ Bir sayfada olması gerekenler ve isim çıktıktan sonra hepsinin nasıl olmas�
 
 Mockuplar bir tasarımın temel taşıdır. Eğer işi düzgün bir şekilde tamamlamak, yaptıklarınızı sil baştan yapmamak ve vaktinizi verimli kullanmak istiyorsanız mutlaka projenizi görsel olarak canlandırmanız gerekli. Daha önceleri [balsamic mockup](http://balsamiq.com/products/mockups/) ve [pencil](http://pencil.evolus.vn/) ile yaptığım çalışmaları bu sefer online tutabileceğim başka bir araç ile değiştirdim. Çünkü iş yerinde öğle aralarında da bu konudan uzak kalmak istemiyordum. Biraz internetten araştırma yaptım ve [moqups’ı](http://moqups.com) buldum.Online olarak mockupları tutabileceğim en kullanışlı site burasıydı. Diğer alternatifleri genellikle pahalı olduğu için burası daha cazip geldi. İşin en zorlu kısmını burada geçirdim. Çünkü elimde yapılacak öğeler (alanlar) vardı ama nerede ve nasıl durması gerektiği konusunda henüz karar verememiştim. Burada daha önce karaladığım çizimler ve dribbble, fikirleri bulmam açısından çok işime yaradı. Yapacağım tasarımın neye benzemesi gerektiği konusunda dribbble’dan oldukça beslendim. Her zaman bir tasarımcının zihinsel olarak yediği yemek kaliteli olduğu zaman yaptığı işlerinde kalitesi o oranda artıtığını düşünüyorum. Tabiki yakın arkadaşım Can’dan da bir çok geri bildirim aldım ve bunları mockup üzerinde düzelttim.
 
-[![phione-mockup](http://mustafasarac.com/wp-content/uploads/2014/07/phione-mockup-300x265.png)](http://mustafasarac.com/wp-content/uploads/2014/07/phione-mockup.png)
+![phione-mockup](/phione-mockup-300x265.png)
 
 **Görsel Tasarım:**
 
@@ -77,7 +65,8 @@ Tasarımın temeline her zaman yapmak istediğim altın oranı koymak fikri akl�
 
 Tasarımları tamamladığımda yakın arkadaşlarımdan geri bildirim almak istedim.Bu durumda Skype ya da Facebook’un iletişim için yetersiz geldiğini farkettim. Yaptığım araştırmalar sonucu [redpen.io](http://redpen.io/) ‘yu buldum ve bu araç üzerinden geri bildirim almaya başladım. Tüm tasarımcı arkadaşlarım görsel açıdan kaçırdığım bir çok konuda bana değerli geri bildirimler verdiler. Tasarımcı oldukları için görsele bakış açılarına da güvendim. Mesela typography konusunda baya eksiğim olduğunu gördüm. Hepsini düzelttim.
 
-[![IMG_5996](http://mustafasarac.com/wp-content/uploads/2014/07/IMG_5996-1024x768.jpg)](http://mustafasarac.com/wp-content/uploads/2014/07/IMG_5996.jpg) [![IMG_6013--](http://mustafasarac.com/wp-content/uploads/2014/07/IMG_6013--1024x466.jpg)](http://mustafasarac.com/wp-content/uploads/2014/07/IMG_6013-.jpg)
+![](/IMG_5996-1024x768.jpg)
+![](/IMG_6013--1024x466.jpg)
 
 **HTML/CSS/JS:**
 
@@ -91,25 +80,25 @@ Resim olarak yaptığım iconları [font awesome](http://fortawesome.github.io/F
 
 Sayfam artık oluşmaya başlamıştı ve hareketlendikçe içim daha da bir heyecan olmaya başladı.
 
-[![code-sample](http://mustafasarac.com/wp-content/uploads/2014/07/code-sample-1024x506.png)](http://mustafasarac.com/wp-content/uploads/2014/07/code-sample.png)
+![code-sample](http://mustafasarac.com/wp-content/uploads/2014/07/code-sample-1024x506.png)
 
 **Testler:**
 
 Tamamlanan tasarımı daha küçük ekranlar ve IE için tekrar optimize ettim. responsive.css dosyası oluşturarak düzeltmeleri buraya yazdım. Yardımcı olsun diye de HTML5’i desteklemeyen bir js yi IE8 için sayfa içerisinde çağırdım. Responsive konusunda bana [**Resizer**](http://lab.maltewassermann.com/viewport-resizer/) eklentisi çok yardımcı oldu. Tabiki yine bu aşamada da arkadaşlarımdan birçok geri bildirim aldım.
 
-[![phione-resizer](http://mustafasarac.com/wp-content/uploads/2014/07/phione-resizer-975x1024.png)](http://mustafasarac.com/wp-content/uploads/2014/07/phione-resizer.png)
+![phione-resizer](/phione-resizer-975x1024.png)
 
 **Logo**
 
 Yaptığın işin adını en baştan koymuştum. Ona uygun bir şeyler yapmak istedim. Açıkçası burada biraz basit olsun istedim. Tamamen altın oran olan bir dikdörtgen kullandım. Alt kısmına da ismini yazdım. İlk işim için idare eder diye düşündüm.
 
-[![logo](http://mustafasarac.com/wp-content/uploads/2014/07/logo.png)](http://mustafasarac.com/wp-content/uploads/2014/07/logo.png)
+![logo](/logo.png)
 
 **Banner**
 
 Banner’ı yapmak en keyifli süreçlerden bir tanesiydi. Tabi ki marketteki diğer banner’lara bakarak genel bir kanı oluşturdum. Solda ürün özellikleri, sağda ise ürünün farklı cihazlarda kullanılmış görselleri kullanmak ürünü daha iyi tanıtabilmem için en mantıklı seçenek gibi durdu. Banner’ı yaptıktan sonra yine arkadaşlarıma göstererek geri bildirim almaya devam ettim.
 
-[![Preview](http://mustafasarac.com/wp-content/uploads/2014/07/Preview.png)](http://mustafasarac.com/wp-content/uploads/2014/07/Preview.png)
+![Preview](/Preview.png)
 
 **Açıklama yazısı**
 
@@ -154,30 +143,4 @@ Sizi 3-5 dolar motive etmez ama bu dünyada birşeyler yaparak yol almak apayrı
 Unutmadan **Yaptığınız işi kimseye gösteremiyorsanız yapmanızın ne anlamı var?**
 
 Sonraki projerlerde görüşmek üzere.
-
-<script>(function() {
-	window.mc4wp = window.mc4wp || {
-		listeners: [],
-		forms: {
-			on: function(evt, cb) {
-				window.mc4wp.listeners.push(
-					{
-						event   : evt,
-						callback: cb
-					}
-				);
-			}
-		}
-	}
-})();
-</script>
-
-<form class="mc4wp-form mc4wp-form-245 mc4wp-form-theme mc4wp-form-theme-light" data-id="245" data-name="Bu yazıyı beğendiniz mi?" id="mc4wp-form-8" method="post"><div class="mc4wp-form-fields"> Bu yazıyı beğendiniz mi? O zaman e-posta bültenine kaydolarak yeni yazılardan haberdar olabilirsiniz.
-
- <label>Adınız</label> <input name="FNAME" type="text"></input>
-
- <label>E-mail adresi: <input name="EMAIL" placeholder="E-posta adresiniz" required="" type="email"></input></label>
-
- <input type="submit" value="Kayıt ol"></input>
-
-</div><label style="display: none !important;">Leave this field empty if you're human: <input autocomplete="off" name="_mc4wp_honeypot" tabindex="-1" type="text" value=""></input></label><input name="_mc4wp_timestamp" type="hidden" value="1621836811"></input><input name="_mc4wp_form_id" type="hidden" value="245"></input><input name="_mc4wp_form_element_id" type="hidden" value="mc4wp-form-8"></input><div class="mc4wp-response"></div></form>
+ 

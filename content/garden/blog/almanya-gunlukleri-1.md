@@ -1,18 +1,3 @@
----
-title: 'Almanya günlükleri &#8211; #1'
-date: '2020-01-29T09:47:57+03:00'
-status: publish
-permalink: /almanya-gunlukleri-1
-author: 'mustafa sarac'
-excerpt: ''
-type: post
-id: 253
-category:
-    - 'Almanya Günlükleri'
-tag:
-    - 'almanya günlükleri'
-post_format: []
----
 Selam, kısa bir giriş yapmak gerekirse; Bir kaç gün önce eşim ve oğlum ile beraber İstanbul’dan Köln’e taşındık. Bu günlük serisinde, gündelik olayları ve düşüncelerimi paylaşmayı planlıyorum. Kısa giriş bitti.
 
 Normalde sürekli olarak kendi not araçlarıma (defter, notion, evernote) notlar alıp yazılar yazıyorum. Genel olarak bu yazılar hep kapalı kapılar ardında kaldığı için her zaman bir ‘halka açık’ yazı yazma isteğim vardı. Bunun üstüne yeğenim Hilal’in de “Almanya’ya gidince bize günlük deneyimlerini anlat, merak ediyorum, en azından ben okurum” demesiyle tekrar blogu aktif etmenin zamanın geldiğine karar verdim. Bir süredir video vb çekmek için de vakit ayıramadığımdan yazmak benim için daha iyi bir iletişim aracı olacağı da su götürmez bir gerçekti.

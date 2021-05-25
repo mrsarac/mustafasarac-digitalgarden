@@ -1,18 +1,3 @@
----
-title: 'Kindle&#8217;a giriş'
-date: '2020-11-11T18:29:58+03:00'
-status: publish
-permalink: /kindle-giris
-author: 'mustafa sarac'
-excerpt: 'Yeni başlayanlar için kindle''a kısa bir giriş. Daha fazlası değil.'
-type: post
-id: 290
-thumbnail: ../uploads/2020/11/lucas-benvenuto-g-d-S9gF2sY-unsplash.jpg
-category:
-    - Genel
-tag: []
-post_format: []
----
 Merhaba 💗
 
 Aslında bu kindle giriş yazısını yeğenim İlayda için hazırlamıştım. Amacım kindle ile kolay bir başlangıç yapması sağlamaktı. Daha sonra arkadaşım Mesut ile da paylaşmak istediğimde yazıyı olduğu gibi bloğa taşımaya karar verdim. Kindle ile ilgili kısaca bildiklerimi buradan paylaşmaya çalıştım. Sormak istediklerini yorum olarak yazabilirsin. Bu yazı zamanla güncellenecektir.
@@ -52,7 +37,13 @@ Unutmadan, Calibre uygulamasını kullanamayacağın ama MOBI, yada PDF, TXT, DO
 
 [Amazon.com](http://amazon.com) altında sana tanımlanan mail adresi nerede? Burada 🙂
 
-![](../uploads/2020/11/Untitled-5.png)![](../uploads/2020/11/Untitled-1-1.png)![](../uploads/2020/11/Untitled-2-1.png)![](../uploads/2020/11/Untitled-3-1.png)![](../uploads/2020/11/Untitled-4.png)👩‍💻 **Ekşi sözlük üzerindeki şu başlığı takip edebilirsin**
+![](Untitled-5.png)
+![](Untitled-1-1.png)
+![](Untitled-2-1.png)
+![](Untitled-3-1.png)
+![](Untitled-4.png)
+
+👩‍💻 **Ekşi sözlük üzerindeki şu başlığı takip edebilirsin**
 
 [kindle kullananlar kulübü](https://eksisozluk.com/kindle-kullananlar-kulubu--5683486)
 
@@ -68,28 +59,3 @@ Merak etme, zaman içerisinde bu cihazı kullanman daha da kolaylaşacak ve bu s
 - Zaman yaratmak
 
 🌸
-
-<script>(function() {
-	window.mc4wp = window.mc4wp || {
-		listeners: [],
-		forms: {
-			on: function(evt, cb) {
-				window.mc4wp.listeners.push(
-					{
-						event   : evt,
-						callback: cb
-					}
-				);
-			}
-		}
-	}
-})();
-</script><form class="mc4wp-form mc4wp-form-245 mc4wp-form-theme mc4wp-form-theme-light" data-id="245" data-name="Bu yazıyı beğendiniz mi?" id="mc4wp-form-2" method="post"><div class="mc4wp-form-fields"> Bu yazıyı beğendiniz mi? O zaman e-posta bültenine kaydolarak yeni yazılardan haberdar olabilirsiniz.
-
- <label>Adınız</label> <input name="FNAME" type="text"></input>
-
- <label>E-mail adresi: <input name="EMAIL" placeholder="E-posta adresiniz" required="" type="email"></input></label>
-
- <input type="submit" value="Kayıt ol"></input>
-
-</div><label style="display: none !important;">Leave this field empty if you're human: <input autocomplete="off" name="_mc4wp_honeypot" tabindex="-1" type="text" value=""></input></label><input name="_mc4wp_timestamp" type="hidden" value="1621836811"></input><input name="_mc4wp_form_id" type="hidden" value="245"></input><input name="_mc4wp_form_element_id" type="hidden" value="mc4wp-form-2"></input><div class="mc4wp-response"></div></form>

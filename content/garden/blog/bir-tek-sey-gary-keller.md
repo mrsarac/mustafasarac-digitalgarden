@@ -1,19 +1,3 @@
----
-title: 'Bir Tek Şey &#8211; Gary Keller'
-date: '2015-07-01T11:20:45+03:00'
-status: publish
-permalink: /bir-tek-sey-gary-keller
-author: 'mustafa sarac'
-excerpt: ''
-type: post
-id: 210
-category:
-    - Genel
-tag: []
-post_format: []
-dsq_thread_id:
-    - '3887493077'
----
 Uzun zamandır okuduğum kitapları sürekli olarak yanımda taşıdığım kara kapaklı küçük defterime kısa notlar halinde tutuyor ve boş olduğum zamanlarda, bir şeyleri beklerken ya da yolculukta sıkılmamak için bu notlarımı okuyordum.
 
 Yakın çevrem ile sohbetlerim esnasında, eğer zaman bulursam bu notları onlarla paylaşmaya özen gösteriyordum. Bu sefer bir değişiklik yaptım ve son okuduğum kitabın özetini online olarak tutmak istedim. Çünkü bendeki notlar sadece benim ve yakın çevremin faydalanabileceği bir alanda sıkışıp kalıyordu. Online da ise çok daha fazla insanın erişebileceğini düşünüyorum.
@@ -30,7 +14,8 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 
 <iframe allowfullscreen="" frameborder="0" height="480" loading="lazy" src="https://www.youtube.com/embed/KCY0ZXbOm00" width="640"></iframe>
 
-<div></div><div>**1. Bir Tek Şey**</div>- İki tavşanın peşine düşerseniz, ikisini birden yakalayamazsınız (Rus Atasözü)
+**1. Bir Tek Şey**
+- İki tavşanın peşine düşerseniz, ikisini birden yakalayamazsınız (Rus Atasözü)
 - Bir gündeki saat sayısı herkes için aynı ama başarılı insanlar neden başarılı olur?
 - Posta Pulu gibi olun, gitmeniz gereken yere varana dek tek bir şeye sıkıca yapışın.
 - Ufak ufak ilerlemek yapabileceğiniz her şeyi göz ardı edip yapmanız gerekeni yapmaktır.
@@ -42,7 +27,8 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - Ufak ufak ilerlemek olağanüstü sonuçlar elde etmek adına benimsenecek basit bir yaklaşımdır ve işe yarar. Her zaman her yerde ve her konuda işe yarar. Çünkü tek bir amacı vardır. O da eninde sonunda sizi istediğiniz noktaya getirmektir.
 - Olabildiğince ufak ilerlerken gözünüzü tek bir şeye odaklarsınız. Ve buda istediğiniz şeydir.
 
-<div></div><div>**2. Domino Etkisi**</div>- Her büyük değişim, devrilen domino taşları gibi başlar.
+**2. Domino Etkisi**
+- Her büyük değişim, devrilen domino taşları gibi başlar.
 - Lorne Whitehead: Amerikan Fizik Günlüğü: Domino taşları devrilirken sadece birçok şeyi değil, daha büyük şeyleri de devirir. Tek bir domino taşı kendisinden %50 daha büyük başka bir domino taşını devirebilir.
 - \#1 Domino Taşı #18 Pizza kulesi #23 Eiffel Kulesi #31 Everest Dağı #57 Ay Mesafesi.
 - Olağanüstü sonuçlar almak hayatınızda domino etkisi yaratmakla alakalıdır.
@@ -53,7 +39,8 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - Çok parası olan birisini gördüğünüzde bilin ki o parayı zaman içerisinde kazanmıştır. (Çok şey yapmış, çok yetenekli, çok bilgili biriside aynı)
 - Anahtar Kelime “ZAMAN İÇİNDE”
 
-<div></div><div>**3. Başarı Ardında İz bırakır.**</div>- Tek ürün tek hizmet.
+**3. Başarı Ardında İz bırakır.**
+- Tek ürün tek hizmet.
 - “Bu dünyada ilerleme kaydedenler adım adım ilerlemeye konsantre olmuş kişilerdir.” -Og Mandino
 - Ağıl etkisi: Bir şeyin olumlu yanlarının olumsuz yanlarını gizlemesi.
 - En başarılı şirketler daima “Bizim TEK şeyimiz nedir?” diye sorar
@@ -65,7 +52,8 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - Daha iyi sonuçlar, kişinin genellikle yaptığı işten daha çok zevk almasının ve o işe daha da büyük tutkuyla bağlanmasının, dolayısıyla o işe daha çok zaman ayırmasının yolunu açacaktır. Bu olağanüstü sonuçlara yol açan bir döngü haline gelebilir.
 - “Başarı tek bir amaca yönelik hareket etmeyi gerektirir.” -Vince Lombardi
 
-<div><div></div><div>**4. Her şey eşit derece önemlidir.**</div></div>- “Başınızı belaya sokan şeyler bilmedikleriniz değil, doğruluğundan emin olduğunuz ama aslında doğru olmayan şeylerdir. ” -Mark Twain
+**4. Her şey eşit derece önemlidir.**
+- “Başınızı belaya sokan şeyler bilmedikleriniz değil, doğruluğundan emin olduğunuz ama aslında doğru olmayan şeylerdir. ” -Mark Twain
 - Yapılması gereken çok fazla şeyim var.
 - “Önem sırasına göre başta gelen şeyler, asla sonra gelenlerin insafına bırakılmamalıdır.” -Goethe
 - Karar verirken rahat yolu tercih edip yüzümüzü aşina olana döneriz.
@@ -93,7 +81,8 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - Başarı en önemli neyse onu yapmakla olur.
 - Aynı anda birkaç şey yaparsam, daha çok şey halletmiş olurum bir yanılgıdır.
 
-<div></div><div>**5. Çoklu görev**</div>- “İki şeyi aynı anda yapmak, ikisini de yapamamaktır. ” -Publisus Syrus
+**5. Çoklu görev**
+- “İki şeyi aynı anda yapmak, ikisini de yapamamaktır. ” -Publisus Syrus
 - Nass, Stanford Uni, 262 öğrenciye soru formu: İleri düzey çoklu görev yapanlar ve daha alt düzey çoklu görev yapanlar.
 - – Nass “İleri düzeyde çoklu görev yapanlar dikkate alınmayacak enayilerdir.” Çoklu görev yapanlar her konuda berbat.
 - “Çoklu görev aynı anda birçok şeyi berbat etmekten başka bir şey değildir” -Steve Uzzell
@@ -118,7 +107,8 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - Araba kullanırken yapılan sohbetler odağın %40 azalmasına sebep oluyor. Bu sarhoş olmak ile aynı etkiyi yaratabiliyor.
 - Çoklu görev bizleri birden farklı biçimlerde mahvolmaya sürüklüyor.
 
-<div></div><div>**6. Disiplinli bir hayat**</div>- Bir şeyin üzerinde o şeyin düzenli getirisi olana dek çalışmak.
+**6. Disiplinli bir hayat**
+- Bir şeyin üzerinde o şeyin düzenli getirisi olana dek çalışmak.
 - Başarı doğru şeyi yapmakla alakalıdır. Her şeyi doğru yapmakla değil.
 - Doğru alışkanlıklar hayatı basitleştirir. Çünkü neyi iyi yapmamız, neyi yapmamamız gerektiğini biliyoruzdur.
 - En verimli gün sayısı 66 dır. (İstatistiksel rapor)
@@ -128,7 +118,8 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - Alışkanlıklar birer birer ve zaman içerisinde elde edilirler
 - Neyi ne zaman istersem yapabilecek durumda olmalıyım
 
-<div></div><div>**7. İrade Gücü Daima Hazır ve Nazırdır**</div>- Tatmin duygusunu ertelemeyi başarma kabiliyeti önemlidir.
+**7. İrade Gücü Daima Hazır ve Nazırdır**
+- Tatmin duygusunu ertelemeyi başarma kabiliyeti önemlidir.
 - Stanford Uni. 165 Uni Öğrencisi 2 ve 7 haneli rakamla ezberletiliyor, çikolatalı keki seçenler 7 haneliler.
 - Son giren ilk çıkar
 - Suni tatlandırıcı kullananlar testte 2 kat fazla hata yapıyor
@@ -139,13 +130,15 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - İrade Gücü her gün sınırlı miktardadır.
 - Doğru ve Düzenli beslenin
 
-<div></div><div>**8. Dengeli Bir hayat**</div>- Dengeli hayat bir yalandır.
+**8. Dengeli Bir hayat**
+- Dengeli hayat bir yalandır.
 - Dengenin peşinden koşmamanız gerekir. Nedeniyse orta noktada sihirli hiçbir şeyin gerçekleşmemesidir; sihirli şeyler aşırı uçlarda gerçekleşir.
 - Olay işinize ne kadar fazla zaman ayırdığınız değildir. Zaman içerisinde ne kadar çok odaklandığınızdır.
 - Olağanüstü sonuçlar elde edebilmek için en önemli olan şeyi seçmeli ve ona gereken zamanı vermelisiniz.
 - Olağanüstü sonuçlar bir öncelik belirlemenizi ve buna göre hareket etmenizi gerektirir. İş hayatı ikiye ayrılmıştır. En önemli şey ve geri kalan tüm şeyler.
 
-<div></div><div>**9. Büyük Kötüdür**</div>- Bizi hedeflerimizden alıkoyan sadece engeller değil, daha az önem taşıyan hedeflere giden açık yoldur.
+**9. Büyük Kötüdür**
+- Bizi hedeflerimizden alıkoyan sadece engeller değil, daha az önem taşıyan hedeflere giden açık yoldur.
 - Büyüme zihniyeti taşıyan çocuklar sınıfta, sabit zihniyetli akranlarına kıyasla daha iyi öğrenme stratejileri kullanıyor, çaresizlik duygusunu daha az yaşıyor, daha çok olumlu çaba sergiliyor ve daha başarılı oluyor.
 - Muazzam bir hayat yaşamak için büyük düşünmek zorundasınız
 - Büyükten korkmayın, sıradanlıktan, harcanmaktan, hayatı dolu dolu yaşayamamaktan korkun.
@@ -155,7 +148,8 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - Aynı zaman biriminde küçük bir hayale ulaşmak ya da aynı zaman biriminde büyük düşünerek büyük sonuçlar elde etmek tamamen kişinin bakış açısıyla alakalıdır.
 - Arzuladığınızın çok üstünde bir hedef belirleyin ve uygulamada gerçek hedefinize ulaşmayı garantileyecek bir plan inşa edin.
 
-<div></div><div>**10. Odaklanma Sorusu**</div>- İlerlemenin sırrı başlamaktır. Başlamanın sırrı, karmaşık, yoğun işlerinizi küçük, altından kalkılabilir işlere bölmek ve sonra ilkinden başlamaktır.
+**10. Odaklanma Sorusu**
+- İlerlemenin sırrı başlamaktır. Başlamanın sırrı, karmaşık, yoğun işlerinizi küçük, altından kalkılabilir işlere bölmek ve sonra ilkinden başlamaktır.
 - “Bir insanı cevaplarından çok sorularıyla değerlendirin.” -Voltaier
 - “Sağduyulu bir soru, bilgeliğin yarısıdır.” -Sir Francis Bacon
 - Araştırmalar soru sormanın öğrenmeye ve performansa yüzde 150 ye varan oranlarda katkıda bulunduğunu gösteriyor.
@@ -171,7 +165,8 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - Hangi konuda uzmanlaşmak, başkalarına ve topluma ne vermek ve nasıl hatırlanmak istediğinizi düşündüğünüzde de bu soru işe yarayacaktır.
 - “Şu anki Tek şeyim nedir?” Bu soruyu sabah uyandığınız anda ve gün boyunca kullanın. Bu soru sizin ilk domino taşını bulmanıza yarar.
 
-<div></div><div>**11. Başarı Alışkanlığı**</div>- “Dünyaya ne gözle baktığınıza dikkat edin; nasıl bakıyorsanız, öyledir” -Erich Heller
+**11. Başarı Alışkanlığı**
+- “Dünyaya ne gözle baktığınıza dikkat edin; nasıl bakıyorsanız, öyledir” -Erich Heller
 - Diğer her şeyi daha kolay ve önemsiz kılacak, yapabileceğim o Tek Şey nedir?
 - Soruya zaman dilimi ve diğer her şeyi daha kolay ve gereksiz kılacak ifadesi eklenmeli.
 - Odaklanma sorusu: İşim için bu hafta hedeflerime ulaşmamı garantileyecek ve diğer her şeyi daha kolay ve gereksiz kılacak, yapabileceğim o TEK şey nedir? (5 yıl içinde, 1 yıl içinde, Bu ay, bu hafta, bu gün, şuan)
@@ -181,7 +176,8 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - Görünen bir yere: “TEK şeyimi yapana dek, diğer her şey dikkatimi dağıtmaktan başka bir işe yaramaz” yazan bir yazı asın.
 - İnsanlar birbirlerinden etkileniyorlar: TEK şeyinizi başkalarıyla paylaşın.
 
-<div></div><div>**12. Büyük Cevaplara Çıkan Yol**</div>- “İnsanlar geleceklerine değil, alışkanlıklarına karar verirler; alışkanlıkları da geleceklerine…” -F.M.Alexander
+**12. Büyük Cevaplara Çıkan Yol**
+- “İnsanlar geleceklerine değil, alışkanlıklarına karar verirler; alışkanlıkları da geleceklerine…” -F.M.Alexander
 - Muazzam bir soru sor ve muazzam cevabı aramaya koyul.
 - Büyük ve belirli sorular sorun: Satışları altı ay içinde ikiye katlamak için ne yapabilirim?
 - Düşük hedefler olağanüstü eylemler gerektirmez.
@@ -195,7 +191,8 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - Olağanüstü Sonuçlar İçinizdeki gücü ortaya çıkarır.
 - “Doğru yolda olsanız bile, orada durup kaldığınız sürece birileri sizi çiğneyip geçecektir” -Will Rogers.
 
-<div></div><div>**13. Bir amaç doğrultusunda yaşamak**</div>- En verimli insanlar bir amaçla başlarlar.
+**13. Bir amaç doğrultusunda yaşamak**
+- En verimli insanlar bir amaçla başlarlar.
 - “Hayat kendinizi bulmak değil, kendinizi yaratmaktır” – G. Bernard Shaw
 - Kaderimiz verdiğimiz kararlarla belirlenir, hayatımızda yaptığımız seçimlerle şekillenir.
 - Zenginlik rakamı, o parayla ne yapacağımıza bağlıdır.
@@ -211,7 +208,8 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - Yazarın amacı: Amacım öğretilerim, danışmanlığım ve yazılarım aracılığıyla insanlara mümkün olabilecek en muazzam hayatı yaşamalarına yardımcı olmaktır.
 - Kendinize bir yön tayin edin, o yolda yaşamaya başlayın ve neler yaşayacağınızı görün. Zaman içerisinde her şey daha belirgin olacaktır, yaşadıklarınızdan hoşlanmazsanız, fikrinizi her zaman değiştirebilirsiniz. Bu sizin hayatınız.
 
-<div></div><div>**14. Öncelikler Doğrultusunda Yaşamak**</div>- Bir amaç doğrultusunda yaşadığınızda nereye doğru gitmek istediğinizi bilirsiniz. Bir öncelik doğrultusunda yaşadığınızda oraya varmak için ne yapmanız gerektiğini bilirsiniz.
+**14. Öncelikler Doğrultusunda Yaşamak**
+- Bir amaç doğrultusunda yaşadığınızda nereye doğru gitmek istediğinizi bilirsiniz. Bir öncelik doğrultusunda yaşadığınızda oraya varmak için ne yapmanız gerektiğini bilirsiniz.
 - Amacın, hayatlarımızı şekillendirme gücü, onunla bağlantı kurduğumuz önceliğin gücü oranındadır. Amacın öncelik olmaksızın hiçbir gücü yoktur.
 - İnsanlar gelecekteki kazanç yerine şimdiki kazançlara yönelmek yönünde daha güçlü bir tercihleri olduğundan gelecekteki kazançların şimdi kazançlara kıyasla çok daha büyük olmasının da sonucu değiştirmediğini çoktan öğrenmişler.
 - Hiperbolik Azalma: Elde edilecek kazancın uzakta olması ve küçük gözükmesine neden olması, hatalı bir biçimde bizim onu öyle sanmamız ve değerinin düşmesinden kaynaklanan etkidir.
@@ -235,7 +233,8 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - Hedeflerini yazıya dökenler diğerlerine kıyasla hedeflerine varma konusunda %39,5 daha başarılı olmuşlardır.
 - Şimdi için hedef belirle. Hedefini yaz
 
-<div><div>**15. Verimlilik doğrultusunda yaşamak**</div>- Verimlilik, öncelik, planlama ve zamanını her ne pahasına olursa olsun korumaktır.
+**15. Verimlilik doğrultusunda yaşamak**
+- Verimlilik, öncelik, planlama ve zamanını her ne pahasına olursa olsun korumaktır.
 - Verimli eylemler insanın hayatını değiştirir.
 - Yaptığımız şey önemli olduğunda, hayatımızı her şeyden çok tanımlayan şey, yaptığımız şey olacaktır.
 - Bir zaman yönetim sistemi, ürettiği verimlilikle ölçülür.
@@ -266,7 +265,8 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - Diğer her şeyi daha kolay veya gereksiz kılacak, zamanı bloke etmemiz koruma altına alacak, her gün yapabileceğim o tek şey nedir?
 - Duvara: Hiçbir şey ve hiç kimsenin beni tek şeyimi yapmaktan alıkoymaya izni yoktur.
 
-<div></div><div>**16. Üç Yükümlülük**</div>- “Elinden gelenin en iyisi yapıp da bundan pişmanlık duyan hiç kimse yoktur” – George Halas
+**16. Üç Yükümlülük**
+- “Elinden gelenin en iyisi yapıp da bundan pişmanlık duyan hiç kimse yoktur” – George Halas
 - 10.000 saat kuralını hiç bir zaman unutma. Doğuştan yetenekli ya da dahi değiliz.
 - Bir iş için yeterince zaman harcayın, sonunda yeteneğe her defasında üstün gelirsiniz.
 - Kendinizi tek şeyinize ustalaşmaya adadığınızda bu durum diğer şeylerin sürecini hızlandırır ve bunlara platform görevi görür. Bilgi beraberinde bilgiyi getirirken, yetenek de yetenek getirir.
@@ -278,7 +278,8 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - En önemli önceliğiniz için ayırdığınız zamanı bloke ettiğinizde, bloke edilmiş zamanınızı koruduğunuzda ve sonra bloke edilmiş zamanınızı olabildiğince etkin bir biçimde kullandığınızda, azami verimliliğe ulaşacaksınız.
 - Aceleyle yola çıkan öğrenciler yoldakileri görmediler ve durmadılar. (%90)
 
-<div></div><div>**17. Dört hırsız**</div>- Hayır diyememe, Karmaşa korkusu, Sağlıkla ilgili kötü alışkanlıklar, Hedefleri desteklemeyen çevre.
+**17. Dört hırsız** 
+- Hayır diyememe, Karmaşa korkusu, Sağlıkla ilgili kötü alışkanlıklar, Hedefleri desteklemeyen çevre.
 - Bir “evet” zaman içinde 1000 “hayır” ile savunulması gerekir.
 - Ne istediğinizin bir yarısı, onu elde etmeden önce neden vazgeçmeniz gerektiğini bilmektir.
 - Apple 350 üründen 10 ürüne düştü
@@ -343,28 +344,3 @@ Not 2: Kitabın özetini hızlı okumak isterseniz youtube’a spritz versiyonun
 - Her şeyi yapmaya çalışırsanız, sonunda hiçbir şeyi başaramadan kalakalırsınız.
 - TEK BİR ŞEY DOĞRU TEK BİR ŞEY yapmaya çalışırsanız başarırsınız.
 - O Tek Şeyi hayatımda kullanmaya başlayabilmem için diğer her şeyi daha kolay veya gereksiz kılacak, şu anda yapabileceğim o TEK şey nedir?
-
-<div></div><div><script>(function() {
-	window.mc4wp = window.mc4wp || {
-		listeners: [],
-		forms: {
-			on: function(evt, cb) {
-				window.mc4wp.listeners.push(
-					{
-						event   : evt,
-						callback: cb
-					}
-				);
-			}
-		}
-	}
-})();
-</script><form class="mc4wp-form mc4wp-form-245 mc4wp-form-theme mc4wp-form-theme-light" data-id="245" data-name="Bu yazıyı beğendiniz mi?" id="mc4wp-form-5" method="post"><div class="mc4wp-form-fields"> Bu yazıyı beğendiniz mi? O zaman e-posta bültenine kaydolarak yeni yazılardan haberdar olabilirsiniz.
-
- <label>Adınız</label> <input name="FNAME" type="text"></input>
-
- <label>E-mail adresi: <input name="EMAIL" placeholder="E-posta adresiniz" required="" type="email"></input></label>
-
- <input type="submit" value="Kayıt ol"></input>
-
-</div><label style="display: none !important;">Leave this field empty if you're human: <input autocomplete="off" name="_mc4wp_honeypot" tabindex="-1" type="text" value=""></input></label><input name="_mc4wp_timestamp" type="hidden" value="1621836811"></input><input name="_mc4wp_form_id" type="hidden" value="245"></input><input name="_mc4wp_form_element_id" type="hidden" value="mc4wp-form-5"></input><div class="mc4wp-response"></div></form></div></div>

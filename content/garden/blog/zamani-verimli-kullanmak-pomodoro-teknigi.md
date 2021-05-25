@@ -1,19 +1,5 @@
----
-title: 'Zamanı verimli kullanmanın en akıllı yolu nedir? &#8211; Pomodoro Tekniği'
-date: '2015-01-28T12:19:48+02:00'
-status: publish
-permalink: /zamani-verimli-kullanmak-pomodoro-teknigi
-author: 'mustafa sarac'
-excerpt: ''
-type: post
-id: 198
-category:
-    - Genel
-tag: []
-post_format: []
-dsq_thread_id:
-    - '3462565490'
----
+# Zamanı verimli kullanmanın en akıllı yolu nedir? &#8211; Pomodoro Tekniği
+
 **Zamanın değerli olduğunu bilen herkes zamanı nasıl daha verimli geçirebileceğini merak eder.** Ben de merak içindeydim. Bu yüzden akıp giden zamanı nasıl daha verimli kullanabilirim diye her zaman bir arayış içerisinde oldum. Uzun bir süre boyunca farklı ve değişik yöntemler deneme fırsatım oldu. Bunların bazıları kalıcı oldu, bazıları ise “eh işte” seviyesinde kaldı. Yemek yerken bile bir şeyler okuyarak/izleyerek kendimce zamanı daha verimli hale getirmeye çalışıyordum. Ama bir türlü zamanı yetiremediğimi, bir şeyleri yanlış yaptığımı da düşünüyordum. Taki bu yöntemle tanışana kadar. Size zaman yönetimi ve zaman verimli geçirmek için en beğendiğim ve geçerli olarak gördüğüm yöntem olan **Pomodoro** tekniğinden bahsetmek istiyorum.
 
 Bu yöntemi yaklaşık olarak 3 yıldır kullanmaktayım. Dönem dönem kullanamadığım zamanlar da oldu. Geriye dönüp baktığımda ciddi bir pişmanlık hissi uyandırıyor bu boş geçen zamanlar. Çünkü **Pomodoro** tekniğini kullanmaya başladığım andan itibaren her şey yolunda gitmeye ve zaman verimli geçmeye başlıyor.
@@ -84,31 +70,4 @@ Bu yazıyı yazdığım sırada pomodoro’nun sadece kendi kullandığım kısm
 
 Pomodoro tekniğinde her 4 pomodoro süresi sonunda 15-30 dakikalık mola verilmesi gibi bir süresi de bulunmaktadır. İsteyenler her 4p sonunda kendilerine dinlenmek için yaklaşık 1p süre verebilirler. Bu da tekniğin bir parçası olarak burada dursun.
 
-Bu kısmı atladığımı hatırlattığı için Ahmet Doğan’a teşekkürler.
-
-<script>(function() {
-	window.mc4wp = window.mc4wp || {
-		listeners: [],
-		forms: {
-			on: function(evt, cb) {
-				window.mc4wp.listeners.push(
-					{
-						event   : evt,
-						callback: cb
-					}
-				);
-			}
-		}
-	}
-})();
-</script>
-
-<form class="mc4wp-form mc4wp-form-245 mc4wp-form-theme mc4wp-form-theme-light" data-id="245" data-name="Bu yazıyı beğendiniz mi?" id="mc4wp-form-6" method="post"><div class="mc4wp-form-fields"> Bu yazıyı beğendiniz mi? O zaman e-posta bültenine kaydolarak yeni yazılardan haberdar olabilirsiniz.
-
- <label>Adınız</label> <input name="FNAME" type="text"></input>
-
- <label>E-mail adresi: <input name="EMAIL" placeholder="E-posta adresiniz" required="" type="email"></input></label>
-
- <input type="submit" value="Kayıt ol"></input>
-
-</div><label style="display: none !important;">Leave this field empty if you're human: <input autocomplete="off" name="_mc4wp_honeypot" tabindex="-1" type="text" value=""></input></label><input name="_mc4wp_timestamp" type="hidden" value="1621836811"></input><input name="_mc4wp_form_id" type="hidden" value="245"></input><input name="_mc4wp_form_element_id" type="hidden" value="mc4wp-form-6"></input><div class="mc4wp-response"></div></form>
+Bu kısmı hatırlattığı için [Ahmet Doğan](https://www.ahmetdoganca.com/more-about-me)’a teşekkürler.

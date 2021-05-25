@@ -1,19 +1,5 @@
----
-title: 'The Miracle Morning (Sabah Mucizesi) &#8211; Hal Elrod'
-date: '2019-10-31T09:51:47+03:00'
-status: publish
-permalink: /the-miracle-morning-sabah-mucizesi-hal-elrod
-author: 'mustafa sarac'
-excerpt: ''
-type: post
-id: 241
-category:
-    - Genel
-tag: []
-post_format: []
-dsq_thread_id:
-    - '7699093677'
----
+# The Miracle Morning (Sabah Mucizesi) - Hal Elrod
+
 Daha önce uygulayıp başarısından emin olduğum bir yöntemi uzun zamandır tekrar yapmak için erteliyordum.
 
 Bir kaç hafta önce mevcut alışkanlıklarımı gözden geçirirken oldukça sıradan bir hayat akışına girdiğimi ve bunun üstesinden gelmem için köklü değişiklikler yapmam gerektiğinin farkına vardım.
@@ -138,30 +124,3 @@ Kitaptan notlar:
 – Gelecekteki başarınız 20-30 gün arasındaki sürdürülebilirliğe bağlıdır.  
 – Sessizlik, İfade, Maddeleştirme, İdman, Okumak ve Günlük Tutmak.  
 – “Bulunduğun nokta nasıl biri olduğunun sonucudur ama nereye gideceğin tamamen olmayı seçtiğin kişiye bağlıdır.”
-
-<script>(function() {
-	window.mc4wp = window.mc4wp || {
-		listeners: [],
-		forms: {
-			on: function(evt, cb) {
-				window.mc4wp.listeners.push(
-					{
-						event   : evt,
-						callback: cb
-					}
-				);
-			}
-		}
-	}
-})();
-</script>
-
-<form class="mc4wp-form mc4wp-form-245 mc4wp-form-theme mc4wp-form-theme-light" data-id="245" data-name="Bu yazıyı beğendiniz mi?" id="mc4wp-form-4" method="post"><div class="mc4wp-form-fields"> Bu yazıyı beğendiniz mi? O zaman e-posta bültenine kaydolarak yeni yazılardan haberdar olabilirsiniz.
-
- <label>Adınız</label> <input name="FNAME" type="text"></input>
-
- <label>E-mail adresi: <input name="EMAIL" placeholder="E-posta adresiniz" required="" type="email"></input></label>
-
- <input type="submit" value="Kayıt ol"></input>
-
-</div><label style="display: none !important;">Leave this field empty if you're human: <input autocomplete="off" name="_mc4wp_honeypot" tabindex="-1" type="text" value=""></input></label><input name="_mc4wp_timestamp" type="hidden" value="1621836811"></input><input name="_mc4wp_form_id" type="hidden" value="245"></input><input name="_mc4wp_form_element_id" type="hidden" value="mc4wp-form-4"></input><div class="mc4wp-response"></div></form>

@@ -1,19 +1,6 @@
----
-title: 'Taslaklar yaparak tasarım problemlerini çözmek'
-date: '2014-06-30T11:34:59+03:00'
-status: publish
-permalink: /taslaklar-yaparak-tasarim-problemlerini-cozmek
-author: 'mustafa sarac'
-excerpt: ''
-type: post
-id: 8
-category:
-    - Genel
-tag: []
-post_format: []
-dsq_thread_id:
-    - '2866506525'
----
+
+# Taslaklar yaparak tasarım problemlerini çözmek
+
 ### **TASARIMI KİM YAPIYOR?**
 
 Tasarım yapmaya başladığımdan bu güne kadar bir çok firma ve müşteri ile çalıştım. Bu süreçte eskiden yaptığım işlerde müşteriye gösterme aşamasında yaptığım tasarımın revizyon gerektirmesi benim için büyük bir moral ve zaman kaybı oluşturuyordu. İnsan büyük bir sınav verir bu sırada. Bir şekilde tasarım işi bitiyor ama ondan sonra müşterinin geri bildirimleriyle (ki bazen cidden çok sert olabilir) tasarım tekrar şekilleniyor ve bazen de çıkan iş hiçbir şeye benzemiyordu. İş bittiğinde aslında bana ait olan bir tasarım değil, tamamen müşterinin istediği ve tasarımsal olarak bir yere gitmeyen (vizyona sahip olmayan) bir işe dönüşüyordu.
@@ -59,7 +46,7 @@ Eskiz olmadan gidilen bir iş süreci 🙂
 
 Eskiz ile:
 
-[![sketch2](http://mustafasarac.com/wp-content/uploads/2014/06/sketch2-300x200.png)](http://mustafasarac.com/wp-content/uploads/2014/06/sketch2.png)
+[![sketch2](/sketch2-300x200.png)](/sketch2.png)
 
 ### **Tasarım sürecinde doğru ilerlemek için nasıl yapıyorum?**
 
@@ -104,30 +91,4 @@ Tasarımlarını yaptıktan sonra yine paylaşarak yorum almaktan çekinmeyin
 Örnekler [https://dribbble.com/search?q=wireframe&amp;s=latest](https://dribbble.com/search?q=wireframe&s=latest%20)  
 Konu hakkında daha detaylı bir anlatım  
 <http://webmagazin.co/tasarim-sureci-nasil-olmali/>
-
-<script>(function() {
-	window.mc4wp = window.mc4wp || {
-		listeners: [],
-		forms: {
-			on: function(evt, cb) {
-				window.mc4wp.listeners.push(
-					{
-						event   : evt,
-						callback: cb
-					}
-				);
-			}
-		}
-	}
-})();
-</script>
-
-<form class="mc4wp-form mc4wp-form-245 mc4wp-form-theme mc4wp-form-theme-light" data-id="245" data-name="Bu yazıyı beğendiniz mi?" id="mc4wp-form-9" method="post"><div class="mc4wp-form-fields"> Bu yazıyı beğendiniz mi? O zaman e-posta bültenine kaydolarak yeni yazılardan haberdar olabilirsiniz.
-
- <label>Adınız</label> <input name="FNAME" type="text"></input>
-
- <label>E-mail adresi: <input name="EMAIL" placeholder="E-posta adresiniz" required="" type="email"></input></label>
-
- <input type="submit" value="Kayıt ol"></input>
-
-</div><label style="display: none !important;">Leave this field empty if you're human: <input autocomplete="off" name="_mc4wp_honeypot" tabindex="-1" type="text" value=""></input></label><input name="_mc4wp_timestamp" type="hidden" value="1621836811"></input><input name="_mc4wp_form_id" type="hidden" value="245"></input><input name="_mc4wp_form_element_id" type="hidden" value="mc4wp-form-9"></input><div class="mc4wp-response"></div></form>
+ 

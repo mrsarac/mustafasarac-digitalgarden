@@ -1,16 +1,4 @@
----
-title: ben
-date: '2014-07-12T23:02:13+03:00'
-status: publish
-permalink: /ben
-author: 'mustafa sarac'
-excerpt: ''
-type: page
-id: 121
-dsq_thread_id:
-    - ''
----
-![ben](http://mustafasarac.com/wp-content/uploads/2014/07/ben.png)
+![ben](/ben.png)
 
 Merhaba, Ben Mustafa,
 
