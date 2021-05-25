@@ -12,6 +12,6 @@
 - [[pomodoro-teknigini-bir-adim-ileri-tasimak]]
 - [[zamani-verimli-kullanmak-pomodoro-teknigi]]
 - [[kindle-giris]]
-- [[yazilari-hizli-bir-sekilde-webde-yayimlamak]]
+- [[publising/mustafasarac-digitalgarden/content/garden/yazilari-hizli-bir-sekilde-webde-yayimlamak]]
 
 ## Edited by obsidian
