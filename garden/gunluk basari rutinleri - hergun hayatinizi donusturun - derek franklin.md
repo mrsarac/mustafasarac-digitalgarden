@@ -1,4 +1,4 @@
-[[Derek Franklin]]
+[[Derek-Franklin]]
 # A Daily Success Routine: Transform Your Life 1 Day At A Time - Derek Franklin
 ref: https://www.skillshare.com/classes/A-Daily-Success-Routine-Transform-Your-Life-1-Day-At-A-Time/358452675/
 
