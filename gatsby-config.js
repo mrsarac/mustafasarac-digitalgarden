@@ -4,7 +4,7 @@ module.exports = {
       resolve: `gatsby-theme-garden`,
       options: {
         contentPath: `${__dirname}/content/garden`,
-        rootNote: `/mustafasarac-digitalgarden-home`,
+        rootNote: `/000-mustafasarac-digitalgarden-home`,
       },
     },
   ],
