@@ -1,4 +1,4 @@
-[[gunluk basari rutinleri - hergun hayatinizi donusturun - derek franklin]]
+[[gunluk-basari-rutinleri-hergun-hayatinizi-donusturun-derek-franklin]]
 # Publilius Syrus
 m.ö 100 yılında yaşamış bir alim (eski köle)
 
