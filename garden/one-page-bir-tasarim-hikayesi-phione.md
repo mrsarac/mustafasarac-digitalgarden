@@ -80,7 +80,7 @@ Resim olarak yaptığım iconları [font awesome](http://fortawesome.github.io/F
 
 Sayfam artık oluşmaya başlamıştı ve hareketlendikçe içim daha da bir heyecan olmaya başladı.
 
-![code-sample](http://mustafasarac.com/wp-content/uploads/2014/07/code-sample-1024x506.png)
+![code-sample](code-sample-1024x506.png)
 
 **Testler:**
 
