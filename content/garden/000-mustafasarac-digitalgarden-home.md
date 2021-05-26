@@ -1,5 +1,7 @@
 # Anasayfa
 
+Merhaba ben Mustafa.  [[web-siteme-ne-oldu?]]
+
 ## Blog yazılarım
 - [[almanya-gunlukleri-1]]
 - [[almanya-gunlukleri-2]]
@@ -9,9 +11,13 @@
 - [[envatoda-basari-icin-ipuclari]]
 - [[one-page-bir-tasarim-hikayesi-phione]]
 - [[taslaklar-yaparak-tasarim-problemlerini-cozmek]]
+- [[yazilari-hizli-bir-sekilde-webde-yayimlamak]]
 - [[pomodoro-teknigini-bir-adim-ileri-tasimak]]
 - [[zamani-verimli-kullanmak-pomodoro-teknigi]]
 - [[kindle-giris]]
-- [[publising/mustafasarac-digitalgarden/content/garden/yazilari-hizli-bir-sekilde-webde-yayimlamak]]
 
-## Edited by obsidian
+### Web to-do (yapılacaklar) 
+- [ ] Default dark mode
+- [ ] GA 
+- [ ] Cookie consent
+- [ ] Theme customization 
