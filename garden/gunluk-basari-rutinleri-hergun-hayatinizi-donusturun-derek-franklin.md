@@ -1,4 +1,4 @@
-[[Derek-Franklin]]
+[[Derek Franklin]]
 # A Daily Success Routine: Transform Your Life 1 Day At A Time - Derek Franklin
 ref: https://www.skillshare.com/classes/A-Daily-Success-Routine-Transform-Your-Life-1-Day-At-A-Time/358452675/
 
@@ -17,7 +17,7 @@ ref: https://www.skillshare.com/classes/A-Daily-Success-Routine-Transform-Your-L
 	- Herhangi bir konuda ustalaşmanızı.
 	- Korkularınızın üstesinden gelmenizi.
 	
-## Freestyle ifade (özgür)
+## Freestyle (özgür) ifade
 - Bir kamera karşısına geç, kameraya bak ve konuş.
 - ⭐  Hedefler, hayaller, son deneyimler, korkular, neler öğrendim, fikirler, hatıralar, yapılacaklar, recap of yesterday, akıştaki diğer şeyler.
 - Bir zamanlayıcı kur 5-10 dk, buna uy.
@@ -25,7 +25,7 @@ ref: https://www.skillshare.com/classes/A-Daily-Success-Routine-Transform-Your-L
 - Geri dönme, sadece ilerle (aynı yazarken yaptığın gibi)
 - Bir şey çıkmıyor olsa da durmadan konuşmaya devam edin.
 
-## Şükran (20 şey, 1-3dk)
+## Şükran (20 şey) 1-3dk
 - İyi düşüncelere odaklandıkça daha çok iyi düşünceler gelir.
 - En iyi yöntemlerden bir tanesi, 20 şeyi Seviyorum olarak kapsamak.
 	- Sabah kahveyi koklamayı seviyorum.

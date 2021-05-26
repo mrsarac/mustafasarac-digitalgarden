@@ -33,4 +33,4 @@ Bu konu hakkında konuşmak istermisiniz?
 
 
 ## İlham verenler
-[[Derek-Franklin]]
+[[Derek Franklin]]
