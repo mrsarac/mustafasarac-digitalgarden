@@ -13,3 +13,9 @@ Eğer ki düşünce fikir ya da yazı buranın içeriğin kapsamında ise bunu �
 ## Neden böyle bir şey yapıyorum?
 Ürettiğim şeyler her zaman tam olarak yayına hazır olmuyordu. Ben de yarım da olsa bu bahçeyi yapıp buraya fikirlerimi ekmeye karar verdim.
 
+Bilmem.￼
+
+Düşünce fikir ya da notlarımı ne zaman yayına hazır olup olmayacağını bilemiyorum bu yüzden şablon halinde olsa bile paylaşmaya ya değer olduğunu düşündüm ve bilginin Offline da sonsuza kadar beklemesi yerine kendini geliştirebileceği başka ortamlara dahil olabileceği.çok anlamsız oldu. 
+
+Aslında yıllardır ikilemdeyim yazdığım yazıların bir çoğu şablon halinde kalıyor fikirlerim de şablon halinde kalıyor eğer ki bir şekilde bunları gerçek dünya ile bağlayamazsam ki bu bağlantı sadece internet aracılığıyla olabilir onların ekilmeden ölen tohumlar olduklarını düşünüyorum insanın en değerli şeyini ise fikirleri ve düşünceleri olduğunu düşünüyorum aynı kendi çocuğu gibi ağzından çıkan her söz sana ait ve bir şekilde bazılarının önemli olabilecekken yok etmesine izin vermek istemiyorum. Zaman içerisinde bu deneysel yaklaşımı meyvelerine toplayacağımı ümit ediyorum. Bu arada bunu dünyada çok fazla yapan insan yok. Bununla ilgili olan listeyi paylaştım.￼￼￼
+￼￼
