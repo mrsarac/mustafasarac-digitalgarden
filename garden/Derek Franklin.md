@@ -8,6 +8,6 @@ https://www.youtube.com/user/derekonline
 https://www.skillshare.com/user/derekfranklin
 
 ## Eğitimler
-- [x] [[gunluk-basari-rutinleri-hergun-hayatinizi-donusturun-derek-franklin]]
+- [x] [[Gunluk basari rutinleri - hergun hayatinizi donusturun - Derek Franklin]]
 - [ ] [[How To Be Awesome At Overcoming Fears ● Taking Action ● Learning Ideas ● Productivity ● More...]]
 - [ ] [[How To Create Amazing Talking Head Videos - Derek Franklin]]
