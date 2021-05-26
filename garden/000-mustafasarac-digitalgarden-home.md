@@ -18,9 +18,9 @@ Merhaba ben Mustafa.  [[web-siteme-ne-oldu]]
 
 ### Web to-do (yapılacaklar) 
 - [ ] Default dark mode
-- [ ] GA 
 - [ ] Cookie consent
 - [ ] Theme customization 
+- [x] GA 
 
 
 ## İletişim
@@ -31,5 +31,6 @@ Bu konu hakkında konuşmak istermisiniz?
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ce005a00-4fde-4ede-abfe-1f59285ae3bb/deploy-status)](https://app.netlify.com/sites/mustafasarac/deploys)
 
-**Derek Franklin**
-- [[A Daily Success Routine - Transform Your Life 1 Day At A Time - Derek Franklin]]
+
+## İlham verenler
+[[Derek Franklin]]
