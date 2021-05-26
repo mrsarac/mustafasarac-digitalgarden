@@ -5,7 +5,7 @@ Digital garden = Dijital Bahçe = Online Bahçe (hangisi hoş geliyorsa)
 
 Dijital Bahçe, bahçıvanların kamusal alanda (online) tohumlarını (düşüncelerini) ekip, onları yetiştirebileceği ve bunları paylaşabileceği çevirimiçi bir alandır.
 
-Bir blog yazsının nasıl yayınlanma tarihi varsa bir tohumun da ekim tarihi vardır. Yalnız tohum bir blog yazısının aksine her zaman yeşil ([[evergreen note nedir?]]) kalır ve bahçıvanlar bu notları düzenlemeye ve geliştirmeye sürekli devam eder.
+Bir blog yazsının nasıl yayınlanma tarihi varsa bir tohumun da ekim tarihi vardır. Yalnız tohum bir blog yazısının aksine her zaman yeşil ([[evergreen note nedir]]) kalır ve bahçıvanlar bu notları düzenlemeye ve geliştirmeye sürekli devam eder.
 
 ## Bu fikir nereden doğdu?
 Bu yayıncılığın bir adım öncesi, fikirlerin doğup gelişme aşamasıdır. Aslında 2000'lerin başında başlayan bir akımdır. En bilindik örneği wikipedia'dır. Wikipedia kamusal alanda toplum için vardır, dijital bahçeler ise kamusal alanda bulunan bireysel alanlardır (bahçelerdir) toplum ve yetiştiricisi için vardır.

@@ -1,6 +1,6 @@
 # Anasayfa
 
-Merhaba ben Mustafa.  [[web-siteme-ne-oldu?]]
+Merhaba ben Mustafa.  [[web-siteme-ne-oldu]]
 
 ## Blog yazılarım
 - [[almanya-gunlukleri-1]]
