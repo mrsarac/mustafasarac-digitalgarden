@@ -2,8 +2,6 @@
 
 Merhaba ben Mustafa.  [[web-siteme-ne-oldu]]
 
-- Aynen öyle, fikirler ortalıkta gezerken, kağıtlara, oradan da bilgisayarıma, şimdi ise onlineda.
-
 ## Blog yazılarım
 - [[almanya-gunlukleri-1]]
 - [[almanya-gunlukleri-2]]

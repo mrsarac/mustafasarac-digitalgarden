@@ -13,4 +13,6 @@ Eğer ki düşünce fikir ya da yazı buranın içeriğin kapsamında ise bunu �
 ## Neden böyle bir şey yapıyorum?
 Ürettiğim şeyler her zaman tam olarak yayına hazır olmuyordu. Ben de yarım da olsa bu bahçeyi yapıp buraya fikirlerimi ekmeye karar verdim.
 
+## Kısaca
+Fikirler ortalıkta gezerken, kağıtlara, oradan da ofline notlara, sonra online'a.
 
