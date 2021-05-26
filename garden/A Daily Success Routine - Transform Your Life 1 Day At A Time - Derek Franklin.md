@@ -1,7 +1,5 @@
 [[Derek Franklin]]
-# A Daily Success Routine: Transform Your Life 1 Day At A Time - Derek Franklin
-
-^c4c98f
+# A Daily Success Routine: Transform Your Life 1 Day At A Time - Derek Franklin ^c4c98f
 
 ### Günlük başarı rutini. Her gün hayatınızı dönüştürün.
 
@@ -50,7 +48,7 @@
 	- **Nasıl?** Nasıl kullanabileceğini açıkla? Hayatına nasıl uygulayabilirsin?
 - Bunu müsait olduğun her zaman yapabilirsin.
 ## Fikir yaratma makinesi ^2714bf
-pdf: [[]]
+pdf: (link ekle)
 -  Fikir kaslarını gelitirmeye yarar.
 -  Günde 10 fikir üretirseniz yılda 3650 fikiriniz olur.
 - ⭐  Herhangi bir konu hakkında olabilir.
@@ -68,10 +66,10 @@ pdf: [[]]
 -  Bunun için kendinize zaman ayrın ve mutlaka üretin.
 -  Her fikir, zihinden geçmeli ama kalpten çıkmalıdır.
 -  Her zaman yeni fikirler üretmeyi deneyin
-## xx
 	
 # Amazing Routine 
-**Bunu günlük rutin templati yapacağım**
+**Bunu günlük rutin templatesi yapacağım**
+
 ## Learning/Growing
 - Bir konu seç ve duygularınla ♥️  beraber onu açıkla. 💬
 	- **Ne?** Bu nedir?
