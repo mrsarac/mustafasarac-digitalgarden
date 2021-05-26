@@ -21,3 +21,11 @@ Merhaba ben Mustafa.  [[web-siteme-ne-oldu]]
 - [ ] GA 
 - [ ] Cookie consent
 - [ ] Theme customization 
+
+
+## İletişim
+Bu konu hakkında konuşmak istermisiniz?
+- twitter.com/mrsarac
+- instagram.com/mustafaasarac
+- mr.sarac@gmail
+
