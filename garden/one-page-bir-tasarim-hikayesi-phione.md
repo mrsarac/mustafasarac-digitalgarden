@@ -122,7 +122,7 @@ Tüm sorunların çözüm basitti tabi biraz vakit alacaktı.
 
 Javascript de “use strict” yazdığımda bazı scriptler çalışmamaya ve hata vermeye başladı. Bende yenileriyle değiştirdim. Sorun çözülene kadar deneme yanılma yaptım.
 
-Place holder konusu ise basitti. Resim adresleri yerine [http://placehold.it/350×150](http://placehold.it/350x150) gibi bir adres girdim. Buradaki rakamlar görselin boyutu.
+Place holder konusu ise basitti. Resim adresleri yerine [https://placehold.it/350×150](https://placehold.it/350x150) gibi bir adres girdim. Buradaki rakamlar görselin boyutu.
 
 ![](http://placehold.it/350x150)
 
