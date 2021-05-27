@@ -4,7 +4,7 @@ module.exports = {
       resolve: `gatsby-theme-garden`,
       options: {
         contentPath: `${__dirname}/garden`,
-        rootNote: `/000-mustafasarac-digitalgarden-home`,
+        rootNote: `/000 Digital Garden`,
       },
     },
     {
@@ -30,6 +30,6 @@ module.exports = {
     },   
   ],
   siteMetadata: {
-    title: `Mustafa Saraç Digital Garden`,
+    title: `Mustafa Saraç - Digital Garden`,
   },
 }
