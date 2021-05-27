@@ -7,25 +7,26 @@ Merhaba ben Mustafa.  [[Web siteme ne oldu]]?
 [[Derek Franklin]]
 
 ## Blog yazılarım
-- [[almanya-gunlukleri-1]]
-- [[almanya-gunlukleri-2]]
+- [[kindle-giris]]
+- [[yazilari-hizli-bir-sekilde-webde-yayimlamak]] 
+- [[zamani-verimli-kullanmak-pomodoro-teknigi]]
 - [[kostum]]
+- [[almanya-gunlukleri-2]]
+- [[almanya-gunlukleri-1]]
 - [[bir-tek-sey-gary-keller]]
 - [[the-miracle-morning-sabah-mucizesi-hal-elrod]]
 - [[envatoda-basari-icin-ipuclari]]
 - [[one-page-bir-tasarim-hikayesi-phione]]
 - [[taslaklar-yaparak-tasarim-problemlerini-cozmek]]
-- [[yazilari-hizli-bir-sekilde-webde-yayimlamak]]
 - [[pomodoro-teknigini-bir-adim-ileri-tasimak]]
-- [[zamani-verimli-kullanmak-pomodoro-teknigi]]
-- [[kindle-giris]]
 
 ### Web to-do (yapılacaklar) 
 - [ ] Default dark mode
 - [ ] Cookie consent
 - [ ] Theme customization 
+- [ ] [[evergreen]] notlara son güncellenme tarihi ve ekim tarihi
 - [x] GA 
-- [ ] [[markdown test]]
+- [x] [[markdown test]] (istediğim gibi olmadı)
 
 ## Sırt çantam 
 - [[Anlatilacak konular]]
