@@ -27,6 +27,9 @@ Merhaba ben Mustafa.  [[Web siteme ne oldu]]?
 - [x] GA 
 - [ ] [[markdown test]]
 
+## Sırt çantam 
+[[Anlatilacak konular]]
+
 
 ## İletişim
 Bu konu hakkında konuşmak istermisiniz?
