@@ -2,6 +2,10 @@
 
 Merhaba ben Mustafa.  [[Web siteme ne oldu]]?
 
+
+## İlham verenler
+[[Derek Franklin]]
+
 ## Blog yazılarım
 - [[almanya-gunlukleri-1]]
 - [[almanya-gunlukleri-2]]
@@ -31,6 +35,3 @@ Bu konu hakkında konuşmak istermisiniz?
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ce005a00-4fde-4ede-abfe-1f59285ae3bb/deploy-status)](https://app.netlify.com/sites/mustafasarac/deploys)
 
-
-## İlham verenler
-[[Derek Franklin]]

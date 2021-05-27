@@ -1,14 +1,12 @@
 [[Derek Franklin]]
 # Günlük başarı rutinleri - hergün hayatınızı dönüştürün - Derek Franklin
-()A Daily Success Routine: Transform Your Life 1 Day At A Time - Derek Franklin)
-ref: https://www.skillshare.com/classes/A-Daily-Success-Routine-Transform-Your-Life-1-Day-At-A-Time/358452675/
+[A Daily Success Routine: Transform Your Life 1 Day At A Time - Derek Franklin](https://www.skillshare.com/classes/A-Daily-Success-Routine-Transform-Your-Life-1-Day-At-A-Time/358452675/)
 
 ### Günlük başarı rutini. Her gün hayatınızı dönüştürün.
 
 ## Yüksek sesle ifade et.
-- Ne zaman positif fikirlerinizi, inançlarınızı, duygularınızı, yaratmak için aklınızdan geçenleri, ne yapacağınızı söylerseniz içinizdeki sorunlu canavar küçülecektir.
+- Ne zaman pozitif fikirlerinizi, inançlarınızı, duygularınızı, yaratmak için aklınızdan geçenleri, ne yapacağınızı söylerseniz içinizdeki sorunlu canavar küçülecektir.
 - ![[derek-franklin-monster.png]]
-
 - “Speech is the mirror of the soul; as a man speaks, so he is.” – [[publilius syrus]]
 - Bunun başka bir faydası, sizi daha karizmatik hale getirir.
 - ⭐  Bunu uygulayarak hayatınızın her alanının geliştirebilirsiniz. Limit yok.
@@ -38,8 +36,8 @@ ref: https://www.skillshare.com/classes/A-Daily-Success-Routine-Transform-Your-L
 - ⭐  Konuşarak ifade etmek yazmaktan çok daha etkili bir yöntem.
 
 ## Ben...
-- Kendini tanımladığım şekilde, kimliğin de bu tanıma ayak uydurur.
-- Ben sağlıklıyım ve enerjiğim, ben her gün koşmayı seviyorum.
+- **Kendini tanımladığım şekilde, kimliğin de bu tanıma ayak uydurur.**
+- Ben daha sağlıklıyım ve enerjiğim, ben her gün koşmayı seviyorum.
 - Bunu haftanın 7 günü için ayrı ayrı tanımla ve hergün bunları tekrar et.
 
 ## Olumlu ve  Güçlü İnançlar
@@ -77,7 +75,7 @@ pdf: (link ekle)
 -  Her zaman yeni fikirler üretmeyi deneyin
 	
 # Amazing Routine 
-(Bunu günlük rutin template'i yapacağım)
+- [ ] Bunu günlük rutin template'i yapacağım
 
 ## Learning/Growing
 - Bir konu seç ve duygularınla ♥️  beraber onu açıkla. 💬
