@@ -6,7 +6,7 @@
 
 ## Yüksek sesle ifade et.
 - Ne zaman pozitif fikirlerinizi, inançlarınızı, duygularınızı, yaratmak için aklınızdan geçenleri, ne yapacağınızı söylerseniz içinizdeki sorunlu canavar küçülecektir.
-- ![[derek-franklin-monster.png]]
+- ![monster](derek-franklin-monster.png)
 - “Speech is the mirror of the soul; as a man speaks, so he is.” – [[publilius syrus]]
 - Bunun başka bir faydası, sizi daha karizmatik hale getirir.
 - ⭐  Bunu uygulayarak hayatınızın her alanının geliştirebilirsiniz. Limit yok.
