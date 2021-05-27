@@ -1,6 +1,9 @@
 # Anlatılacak konular
-- Sabah sayfaları
-- Sabah erken kalmak üzerine
-- digital garden
-- pkm
-- aklıma geldikçe güncellenecek
+- [ ] Sabah sayfaları
+- [ ] Sabah erken kalmak üzerine
+- [ ] Digital garden
+- [ ] PKM
+- [ ] Sesli ifade etme 
+- [ ] Kamera korkusunu yenmek
+
+Aklıma geldikçe güncellenecek, yani..
