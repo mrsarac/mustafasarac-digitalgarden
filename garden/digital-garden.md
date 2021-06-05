@@ -17,7 +17,7 @@ Genel olarak kişisel bilgi yönetimi ağırlıklı konulardan bahsedeceğim. Bu
 Toplamda fikirlerin açık hale geldiği 5 ayrı katman bulunuyor (değişebilir)
 1. Fikirlerin ve düşüncelerin anlamlı ya da anlamsız şekilde toplanması
 2. İlk aşamdaki fikirlerin kalıcı notlar haline çevirilmesi ve bağlantıların sağlanması
-2.1. [[ara-katman]]
+	>[[ara-katman]]
 3. Online katmanı, burası bir [[digital-garden]] ayrıca burada 2 ve 4 ile sürekli bilgi alışverişi bulunuyor.
 4. XXX (tanımlanacak)
 

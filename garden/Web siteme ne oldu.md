@@ -7,7 +7,7 @@ Burası düşünce ve henüz yazma aşamasında olan, kendi seçtiğim notların
 ## Bir düşünce, fikir ya da yazı buraya nasıl gelir?
 Online'a aktarabileceğimi düşündüğüm şeyleri, buradaki notlar ile bağladığımda gelir.
 
-## Neye göre onlineı aktarıp aktarmayacağıma karar veriyorum?
+## Neye göre buraya aktarıp aktarmayacağıma karar veriyorum?
 Eğer ki düşünce fikir ya da yazı buranın içeriğin kapsamında ise bunu ıffline da tutmak yerine buraya taşıyorum.
 
 ## Neden böyle bir şey yapıyorum?

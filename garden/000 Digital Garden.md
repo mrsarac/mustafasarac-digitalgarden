@@ -1,6 +1,8 @@
 # Anasayfa
 
-Merhaba ben Mustafa.  [[Web siteme ne oldu]]?
+Merhaba ben Mustafa.
+Burada 
+[[Web siteme ne oldu]]?
 
 
 ## İlham verenler
@@ -25,6 +27,7 @@ Merhaba ben Mustafa.  [[Web siteme ne oldu]]?
 - [ ] Cookie consent
 - [ ] Theme customization 
 - [ ] [[evergreen]] notlara son güncellenme tarihi ve ekim tarihi
+- [ ] comment module 
 - [x] GA 
 - [x] [[markdown test]] (istediğim gibi olmadı)
 
@@ -36,7 +39,7 @@ Merhaba ben Mustafa.  [[Web siteme ne oldu]]?
 Bu konu hakkında konuşmak istermisiniz?
 - twitter.com/mrsarac
 - instagram.com/mustafaasarac
-- mr.sarac@gmail
+- mr.sarac@gmail.com
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ce005a00-4fde-4ede-abfe-1f59285ae3bb/deploy-status)](https://app.netlify.com/sites/mustafasarac/deploys)
 
