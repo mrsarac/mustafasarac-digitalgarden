@@ -7,9 +7,6 @@ Bu konuların tamamı kendi öğrenim sürecimdedir, Zamanla mevcut notlar ile b
 - [ ] Sabah erken kalmak üzerine
 - [ ] Digital garden
 - [ ] PKM
-  now:: 1623105245300
-  later:: 1623105244143
-  done:: 1623105246042
 - [ ] Sesli ifade etme
 - [ ] Kamera korkusunu yenmek
   

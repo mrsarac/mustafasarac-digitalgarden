@@ -26,6 +26,7 @@ Toplamda fikirlerin açık hale geldiği 5 ayrı katman bulunuyor (değişebilir
 
 
 ## Bu yeni bir şey mi?
-Hem evet, hem  hayır. Birçok bahçıvan bunu uzun süredir uyguluyor. Ama henüz bu konuyla iligili hiçbir türkçe içerik yok. Belki bu ilk yazı bile olabilir.
+Hem evet, hem  hayır. Birçok dijital yazar bunu uzun süredir uyguluyor. Ama henüz bu konuyla iligili hiçbir türkçe içerik yok. Belki bu ilk yazı bile olabilir.
 
 - [[digital-garden-web-adresleri]]
+- [[Bir fikri yakalamak]]
