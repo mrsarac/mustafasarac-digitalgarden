@@ -9,6 +9,6 @@ https://www.skillshare.com/user/derekfranklin
 
 ## Eğitimler
 - [x] [[Gunluk basari rutinleri - hergun hayatinizi donusturun - Derek Franklin]]
-- [ ] [[How To Be Awesome At Overcoming Fears - Taking Action - Learning Ideas - Productivity - More...]]
+- [ ] [[How To Be Awesome At Overcoming Fears]]
 - [ ] [[How To Create Amazing Talking Head Videos - Derek Franklin]]
 - [x] [[Gunluk basari rutinleri - hergun hayatinizi donusturun - Derek Franklin]]

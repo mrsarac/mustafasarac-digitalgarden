@@ -1,10 +1,11 @@
 # Anasayfa
 
 Merhaba ben Mustafa.
-Burada  [[Web siteme ne oldu]]?
+Burada [[Web siteme ne oldu]]?
 
 ## İlham verenler
 [[Derek Franklin]]
+
 ## Blog yazılarım
 - [[kindle-giris]]
 - [[yazilari-hizli-bir-sekilde-webde-yayimlamak]]
@@ -18,20 +19,20 @@ Burada  [[Web siteme ne oldu]]?
 - [[one-page-bir-tasarim-hikayesi-phione]]
 - [[taslaklar-yaparak-tasarim-problemlerini-cozmek]]
 - [[pomodoro-teknigini-bir-adim-ileri-tasimak]]
+
 ### Web to-do (yapılacaklar)
 - [ ] Default dark mode
 - [ ] Cookie consent
 - [ ] Theme customization
 - [ ] [[evergreen]] notlara son güncellenme tarihi ve ekim tarihi
 - [ ] comment module
-- [x] GA
+- [x] GA (nedense track etmiyor?)
 - [x] [[markdown test]] (istediğim gibi olmadı)
-## Sırt çantam
-- [[Anlatilacak konular]]
+
+
 ## İletişim
 Bu konu hakkında konuşmak istermisiniz?
-- twitter.com/mrsarac
-- instagram.com/mustafaasarac
+- [twitter.com/mrsarac](https://twitter.com/mrsarac)
 - mr.sarac@gmail.com
   
 
