@@ -1,3 +1,6 @@
+---
+updated: 2022-01-27T14:56:18+01:00
+---
 # Digital Garden nedir? - Digital Bahçe nedir? 
 
 ## Digital garden nedir?
