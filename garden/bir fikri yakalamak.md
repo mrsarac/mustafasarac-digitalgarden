@@ -1,16 +1,7 @@
 # bir fikri yakalamak
 
-relative path
+![](capture-extracting-development-creation.png)
 
-![[../static/capture-extracting-development-creation.png]]
-
-absolute path
-
-![[mustafasarac-digitalgarden/static/capture-extracting-development-creation.png]]
-
-shortest way
-
-![[capture-extracting-development-creation.png]]
 
 - Topla
 - Çıkart
