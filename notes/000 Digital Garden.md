@@ -1,13 +1,9 @@
 ---
-updated: 2022-01-27T14:56:41+01:00
+updated: 30.01.2022
 ---
 # Anasayfa
 
-Merhaba ben Mustafa.
-Burada [[Web siteme ne oldu]]?
-
-## İlham verenler
-[[Derek Franklin]]
+Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verdiğim ve hala üzerinde çalıştığım notlarımı ve blog yazılarımı bulabilirsin. Bu web sitesini hakkında bilgi almak için [[Web siteme ne oldu]] başlığına göz atabilirsin.
 
 ## Blog yazılarım
 - [[kindle-giris]]
@@ -23,6 +19,10 @@ Burada [[Web siteme ne oldu]]?
 - [[taslaklar-yaparak-tasarim-problemlerini-cozmek]]
 - [[pomodoro-teknigini-bir-adim-ileri-tasimak]]
 
+
+## İlham verenler
+[[Derek Franklin]]
+
 ### Web to-do (yapılacaklar)
 - [ ] Default dark mode
 - [ ] Cookie consent
@@ -34,7 +34,7 @@ Burada [[Web siteme ne oldu]]?
 
 
 ## İletişim
-Bu konu hakkında konuşmak istermisiniz?
+[[Kişisel bilgi yönetimi]] hakkında konuşmak istermisiniz?
 - [twitter.com/mrsarac](https://twitter.com/mrsarac)
 - mr.sarac@gmail.com
   

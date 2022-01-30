@@ -1,5 +1,5 @@
 ---
-updated: 2022-01-27T14:56:18+01:00
+updated: 30.01.2022
 ---
 # Digital Garden nedir? - Digital Bahçe nedir? 
 
@@ -17,16 +17,14 @@ Bu yayıncılığın bir adım öncesi, fikirlerin doğup gelişme aşamasıdır
 Genel olarak [[kişisel bilgi yönetimi]] ağırlıklı konular. Bu terim henüz Türkiye'de kullanılmıyor, ama yakın zaman içerisinde bu konu üzerinde bir çok içerik bulacağınıza eminim. Çünkü  öyle olacak.
 
 ## Kaç katman var?
-Toplamda fikirlerin açık hale geldiği 5 ayrı katman bulunuyor (değişebilir)
+Toplamda fikirlerin açık hale geldiği 3 ayrı katman bulunuyor (değişebilir)
 1. Fikirlerin ve düşüncelerin anlamlı ya da anlamsız şekilde toplanması
-2. İlk aşamdaki fikirlerin kalıcı notlar haline çevirilmesi ve bağlantıların sağlanması
+2. İlk aşamdaki fikirlerin kalıcı notlar haline çevirilmesi ve gerekli bağlantıların sağlanması
 	>[[ara-katman]]
-3. Online katmanı, burası bir [[digital-garden]] ayrıca burada 2 ve 4 ile sürekli bilgi alışverişi bulunuyor.
-4. XXX (tanımlanacak)
+3. Online katmanı, burası bir [[digital-garden]] ayrıca burada ikinci katman ile sürekli bilgi alışverişi bulunuyor.
 
 ## Kaçıncı katman?
 😄  Burası 3. katman. 
-
 
 ## Bu yeni bir şey mi?
 Hem evet, hem  hayır. Birçok dijital yazar bunu uzun süredir uyguluyor. Ama henüz bu konuyla iligili hiçbir türkçe içerik yok. Belki bu ilk yazı bile olabilir.

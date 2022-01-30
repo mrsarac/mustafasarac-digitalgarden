@@ -1,15 +1,18 @@
-[[digital-garden]]
+---
+updated: 30.01.2022
+---
+# Kişisel bilgi yönetimi nedir?
+Tanım: XXX
 
-## Kişisel bilgi yönetimi nedir?
-
-### Kişisel bilgi yönetimi kapsamı nedir?
-- günlük notlar
+## Kişisel bilgi yönetiminin kapsamı nedir?
+- günlük
+- geçici notlar
 - kalıcı notlar
 - araştırma yazıları
-- blog
+- blog yazıları
 - görsel referanslar
 
-### Nerelerde kullanıyorum?
+## Nerelerde kullanıyorum?
 - kod parçacıkları
 - günlük
 - blog yazıları
