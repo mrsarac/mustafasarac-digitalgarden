@@ -1,5 +1,5 @@
 ---
-updated: 30.01.2022
+updated: 31.01.2022
 ---
 # Anasayfa
 
@@ -34,7 +34,7 @@ Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verd
 
 
 ## İletişim
-[[Kişisel bilgi yönetimi]] hakkında konuşmak istermisiniz?
+[[kişisel bilgi yönetimi]] hakkında konuşmak istermisiniz?
 - [twitter.com/mrsarac](https://twitter.com/mrsarac)
 - mr.sarac@gmail.com
   

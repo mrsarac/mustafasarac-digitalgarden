@@ -2,7 +2,7 @@
 updated: 30.01.2022
 ---
 # Kişisel bilgi yönetimi nedir?
-Tanım: XXX
+
 
 ## Kişisel bilgi yönetiminin kapsamı nedir?
 - günlük
