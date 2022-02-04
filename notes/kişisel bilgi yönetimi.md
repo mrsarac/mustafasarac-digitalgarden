@@ -1,5 +1,5 @@
 ---
-updated: 30.01.2022
+updated: 05.02.2022
 ---
 # Kişisel bilgi yönetimi nedir?
 
@@ -13,11 +13,11 @@ updated: 30.01.2022
 - görsel referanslar
 
 ## Nerelerde kullanıyorum?
-- kod parçacıkları
-- günlük
-- blog yazıları
-- dil öğrenme
-- kişiler
-- izlediğim videoları
-- okuduğum yazıların özetleri
-- okuduğum kitapların özetleri
+- kod parçacıklarını saklamak için
+- günlük yazarken
+- blog yazılarımını hazırlarken
+- dil öğrenmek için
+- kişiler hakkında daha fazla bilgi saklayabilmek için 
+- izlediğim videoların içindeki önemli yerleri kayıt altına alabilmek için
+- okuduğum yazıların özetleri için
+- okuduğum kitapların özetleri için
