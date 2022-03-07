@@ -1,11 +1,12 @@
 ---
-updated: 31.01.2022
+updated: 04.03.2022
 ---
 # Anasayfa
 
-Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verdiğim ve hala üzerinde çalıştığım notlarımı ve blog yazılarımı bulabilirsin. Bu web sitesini hakkında bilgi almak için [[Web siteme ne oldu]] başlığına göz atabilirsin.
+Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verdiğim ve hala üzerinde çalıştığım notlarımı ve blog yazılarımı bulabilirsin. Bu web sitesini hakkında bilgi almak için [[Web siteme ne oldu]] başlığına göz atabilirsin. 
 
-## Blog yazılarım
+## Yazılarım
+- [[kişisel bilgi yönetimi üzerine 1]]
 - [[kindle-giris]]
 - [[yazilari-hizli-bir-sekilde-webde-yayimlamak]]
 - [[zamani-verimli-kullanmak-pomodoro-teknigi]]

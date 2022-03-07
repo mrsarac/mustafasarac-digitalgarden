@@ -1,5 +1,5 @@
 ---
-updated: 05.02.2022
+updated: 06.02.2022
 ---
 # Kişisel bilgi yönetimi nedir?
 
