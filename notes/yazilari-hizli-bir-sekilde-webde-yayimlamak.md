@@ -10,7 +10,9 @@ Bu web sitesiyle ilgili amacımda mümkün olduğunca az efor sarfederek ortamı
 WordPress – Git it Write
 ------------------------
 
-Web sitemde yazı yayımlamak için WordPress’i kullanıyorum. O yüzden ilk önce WordPress ile bunu nasıl yapabileceğime baktım ve eklentiler sayfasında [Git it Write](https://wordpress.org/plugins/git-it-write/#:~:text=Git%20it%20Write%20allows%20to,site%20generators%20like%20Jekyll%20%2C%20Next.) adında bir eklenti buldum. Kullanmak için uygun gibi gözüktü.
+Web sitemde yazı yayımlamak için ~~WordPress’i  kullanıyorum~~  [1] O yüzden ilk önce WordPress ile bunu nasıl yapabileceğime baktım ve eklentiler sayfasında [Git it Write](https://wordpress.org/plugins/git-it-write/#:~:text=Git%20it%20Write%20allows%20to,site%20generators%20like%20Jekyll%20%2C%20Next.) adında bir eklenti buldum. Kullanmak için uygun gibi gözüktü.
+
+[1] Evet, web sitemi artık WordPress yerine, digital garden'a çevirdim. Datalar yine GitHub ile senkron...
 
 Selam GitHub
 ------------
