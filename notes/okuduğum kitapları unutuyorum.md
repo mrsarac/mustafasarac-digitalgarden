@@ -25,3 +25,4 @@ Sonra içini kurcalarken, sadece bana değil başkalarına da faydalı olabilece
 Merak eden olursa okuduğum şeyleri paylaştığım şu şeye abone olabilirler. Bana faydası olan şeylerin başkasına da faydası olması kadar keyif veren bir şey yok. https://readwise.io/@mustafasarac (Haftalık bülten şeklinde geliyor, başka bir şey gelmiyor.) 
 
 Ayrıca eğer Readwise'ı denemek isterseniz, referanslı linkimi de buraya bırakıyorum. 1 ay bana, 1 ay yeni üye olan kişiye ücretsiz olarak hediye veriyor, link: https://readwise.io/i/mustafa693 
+
