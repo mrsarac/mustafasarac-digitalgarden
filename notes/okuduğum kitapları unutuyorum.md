@@ -1,6 +1,6 @@
 # readwise.io
 
-Yıllardır problemini çektiğim bir konu vardı.
+Yıllardır problemini çektiğim bir **konu** vardı.
 
 Kitaplığıma bakıp şöyle diyordum; Acaba bu kitabı okudum mu? kitabı elime alıp; aa okumuşum her yeri çizili, acaba bu kitapta benim için önemli olan şeyler neydi. Aa hiçbir şey! Demek ki kitap çok da önemli değilmiş. 
 
