@@ -1,0 +1,126 @@
+# Iyi Yazmak üzerine
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-7.09749d3efd49.png)
+
+## Metadata
+- Author: [[William Zinsser]]
+- Full Title: Iyi Yazmak üzerine
+- Category: #books
+
+## Highlights
+- Basitleştirin, basitleştirin. Bol bol hatırlatıldığımız gibi Thoreau da bunu diyordu ve başka hiçbir Amerikalı yazar dediklerine onun kadar bağlı değildi. Walden’ın herhangi bir sayfasını açın ve sade ve düzenli bir şekilde aklındakileri kağıda döken bir adamın yazdıklarını okuyacaksınız.
+- Bulanık düşünceli birisinin iyi yazı yazması mümkün değildir.
+- İyi yazarlık doğal olarak gerçekleşen bir şey değildir ama çoğu insan nedense böyle düşünür.
+- Yazmak zor bir iştir. Net bir cümle kazara oluşturulamaz. İstediğiniz cümleyi nadiren ilk denemenizde kurabilirsiniz.
+- Yazı yazarken normalde orada olmaması gereken bir sürü fazlalığı da yazımıza dahil ediyoruz. Kağıda yazdığımız her kelimeyi çok dikkatlice incelememiz gerekir. Bunu yaparsanız normalde kullanmayacağınız ve bir anlam ifade etmeyen pek çok kelime kullandığınızı fark edeceksiniz.
+- Her kelime işlevini yerine getiriyor mu? Aynı anlam daha ekonomik bir şekilde verilebilir mi? Şaşaalı, gösterişçi ya da geçici sözcükler var mı ? Sadece güzel olduğunu düşündüğün için yazının bir parçası olan ama tamamen gereksiz olan bir şeyi muhafaza ediyor musun? Basitleştirin, basitleştirin.
+- Ne kadar kötü yazdıklarının farkında olan insanların sayısı çok az.
+- Önemli olan şey şu: yazınızı kuvvetlendirmeden önce basitleştirmeniz gerekiyor.
+- Yazı yazmak kağıt üzerinde iki kişi arasında samimi bir alışveriştir ve ne içinde ne kadar insanlık varsa bu da o kadar çok sağlanabilir. Bu yüzden insanlara birinci tekil şahsı kullanarak yazmalarını öğütlüyorum: -ben-, -beni-, -bana-, -bize- gibi zamirleri kullanmalarını.
+- -Ben- zamirini kullandırtmak hiç kolay değildir. Kendi düşüncelerini ve kendi hislerini ifade edebilme hakkını kazanmak zorunda olduklarını ya da bunun egoistçe olduğunu düşünürler.
+- Tarz ruha bağlıdır ve  yazmanın derin psikolojik kökleri vardır.
+- Bu mu sağlam bir kanaat? Boksörmüş gibi aşağı yukarı sallanıp zikzak çizen liderler güven vermezler -ne de güven hak ederler. Aynısı yazarlar için de geçerli. Kendinizi gösterirseniz konunuzun çekiciliği kendiliğinden artacaktır. Kendi kimliğinize ve fikirlerinize güvenin. Yazmak bir ego işidir ve bunu kabul etseniz iyi olur. Devam etmek için bu enerjiyi kullanın.
+- Kim için yazıyorum?
+- İlk olarak kendinizi memnun etmek için yazıyorsunuz ve siz zevk alıyorsanız uğurlarına yazmaya değer okuyucular da ondan zevk alacaktır.
+- Bir muhabbette rahatça söyleyemeyeceğiniz bir şeyi asla yazmayın.
+- Yazı yazarken önemli olan hız değil orjinalliktir.
+- Bugün yazılanları ve eski ustalar tarafından yazılmış şeyleri okumayı alışkanlık haline getirin. Yazmak taklit ederek öğrenilir. Bana nasıl yazı yazmayı öğrendiğim sorulsaydı, benim yazmak istediğim tarzda yazan yazarları okuyup bunu nasıl yaptıklarını inceleyerek öğrendim cevabını verirdim.
+- Yazmak, yazarak öğrenilir. Bu herkesin bildiği bir gerçek ve bunun böyle olmasının sebebi doğru olması. Yazmayı öğrenmenin tek yolu kendinizi belirli bir düzende belli bir miktarda kelime üretmeye zorlamaktır.
+- İyi yazmanın temeli bütünlüktür, bu yüzden önce akışınızı düzgün tutun. Bütünlük, okuyucunun dikkatinin dağılıp kaybolmasını engeller; okuyucularınızın bilinçaltındaki düzen ihtiyacını giderir ve asayişin berkemal olduğunu fark etmelerini sağlar. Bu yüzden seçiminizi düzgün yapın ve arkasında durun.
+- Bu yüzden yazmaya başlamadan önce kendinize bazı temel sorular yöneltin. Örneğin: -Okuyucuya ne kadar kapsamlı bilgi vereceğim?- (Muhabir, danışman ya da sokaktan biri gibi mi?), -Hangi zamir ve kipi kullanacağım?-, -Ne tarzda yazacağım?-, -Kendimi dahil etmeyip bir şeyler mi bildireceğim, kişisel ama resmi bir şekilde mi yazacağım yoksa kişisel ve günlük konuşma dilinde mi yazacağım?-, -Neyin ne kadarını anlatmak istiyorum?-, -Ana tema ne?-.
+- Bir yazının en önemli cümlesi ilk cümlesidir. Eğer ilk cümleniz okuyucuyu ikinci cümleyi okumaya teşvik etmiyorsa yazınız bir işe yaramaz. Eğer ikinci cümleniz okuyucuyu üçüncü cümleyi okumaya teşvik etmiyorsa yazınız hiçbir işe yaramaz. Cümlelerinizi okuyucuyu yakalayacak bir düzende sıralayarak, yazar -giriş-i inşa etmiş olur.
+- Okuyucunuzu gülümsetirseniz en azından bir paragrafı daha okumasını garantilersiniz.
+- Her zaman kullanabileceğinizden fazla bilgi toplayın. Bu ekstra bilgilerin içinden seçeceğiniz kullanışlı bir kaç tanesini yazıya dahil ettiğiniz zaman yazınızın güçlendiğini fark edeceksiniz.
+- Bir toplumun ruh halini en iyi bahçeleri için ne gibi eşyalar aldıklarına ve kullandıklarına bakarak anlayabilirsiniz.
+- Son cümlenizi seçerken, ilk cümlenizi seçerkenki kadar özen göstermelisiniz, yani neredeyse.
+- Nesir yazarı için bunu kurallaştırmanın en kolay yolu şudur: bitirmeye hazır hissettiğinizde bitirin. Bütün bilgileri sunduğunuzdan ve anlatmak istediğiniz şeyi anlattığınızdan emin olunca, en yakın çıkışa yönelin.
+- Nesiri en çok canlı tutan şey sürpriz öğesidir. Eğer bir şey sizi şaşırtıyorsa o zaman okuyucunuzu da şaşırtır -ve memnun eder-, özellikle de hikayenizi bitirip okuyucunuzu uğurlamak üzereyseniz.
+- Etken ve edilgen fiil arasındaki fark -açıklık ve güç açısındanbir yazar için yaşamla ölüm arasındaki farka denktir.-
+- -Joe onu gördü.- güçlüdür, -Joe tarafından görüldü.- ise zayıf.
+- Lincoln ikinci kez başkan seçildiğinde yaptığı konuşmada 701 kelime kullandı. Bunların 505 tanesi tek heceli, 122 tanesi ise iki heceliydi.
+- Umursamazca yazılan yazılarda güçlü fiillerin etkisi gereksiz zarflarla azaltılır. Bu, aynı şekilde sıfatlar için de geçerlidir: -çaba sarf etmeden kolayca- -nispeten, basitçe- -tamamen hayrete düştüm-. Eğer bir iş çaba sarf etmeden yapılabilecek kadar kolaysa, -kolayca- yazın. Gerekmiyorsa zarf kullanmayın. Yarışı kazanan atletin genişçe güldüğünü söyleme zahmetine girmeyin.
+- Okuyucunuza bir evin kasvetli ya da bir kızın güzel olduğunu söylemek istiyorsanız, o zaman kasvetli ve güzel sıfatlarını kullanın.
+- Birisinin çok metodik olduğunu söylemenize gerek yoktur. Ya metodiktir, ya da değildir.
+- Noktalama işaretlerini kullanmayı bilmiyorsanız -ve çoğu üniversite öğrencisi bilmiyorgidin kendinize dilbilgisi kitabı alın.-
+- Ayrıca bir şaka ya da ironi yaptığınızı bildirmek için ünlem işareti kullanmaktan sakının. -Su tabancasının dolu olabileceğini hiç düşünmemiştim!-. Bunun komik bir an olduğunu okuyuculara bildirmeniz onların canını sıkar, aynı zamanda bunu komik bulma zevklerini ellerinden almış olursunuz.
+- Yarışmayı unutun ve kendi hızınızı yakalayın. Sadece kendinizle yarışıyorsunuz.
+- Bir çıkmaza düştüğünüzde, sıkıntılı kısma bakın ve kendinize şunu sorun: -Buna gerçekten ihtiyacım var mı?- Büyük ihtimalle yoktur.
+- Paragraflarınızı kısa tutun. Yazı görsel bir şeydir -akla hitap etmeye fırsat bulamadan göze hitap eder. Kısa paragraflar yazdıklarınızda nefes alacak yer olduğunu gösterir ve davetkar durur. Uzun paragraflar ise okuyucuyu okumaktan bile vazgeçirebilir.
+- Yazmanın bitmiş bir ürün değil, evrimleşen bir süreç olduğunu anlayana kadar iyi yazamazsınız.
+- -Yeniden yazmak-la neyi kast ediyorum? Kast ettiğim şu değil: önce bir ilk taslak yazıp, sonra farklı bir ikinci versiyon, sonra da üçüncü bir versiyon yazmak. Yeniden yazmak işinin çoğu şudur: ilk denemenizde yazdığınız şeyleri yeniden şekillendirmek, sıkılaştırmak ve arındırmak.
+- Hakkında yazmaya izninizin olmadığı hiç bir konu yoktur.
+- Eğer ilgili olduğunuz şeyler hakkında yazarsanız hem daha iyi yazarsınız, hem de okuyucularınızla daha iyi bağ kurarsınız.
+- Yazdığınız konuyla aranızda özel bir bağ varsa, hiçbir konu çok spesifik ya da garip değildir.
+- Ben röportaj yaparken 1 numara kalem kullanıyorum. Başka bir insanla aramdaki aktarımı seviyorum. O insanın benim çalıştığımı görmesi hoşuma gidiyor – işimi kendim yaparken, bir makine benim yerime yaparken değil.
+- Röportaj yaptığınız kişiye karşı olan ahlaki göreviniz, onu doğru olarak temsil etmektir. Eğer bir konunun iki tarafını da dikkatlice değerlendirdiyse, ama siz buna rağme tek bir görüşünü aktarıp onu bir taraftaymış gibi gösterirseniz, size söylediği şeyleri doğru olarak aktarmamış olursunuz.
+- Sözlerinden bağlam dışı alıntılar yaparsanız, ya da düşüncelerinin devamını aktarmayıp sadece güzel olduğunu düşündüğünüz bir sözü yazarsanız, yine onun söylediklerini doğru olarak aktarmamış olursunuz. Burada mevzu bahis olan şey bir kişinin itibarı ve onuru -tabi ki sizinki de.
+- Yazmak kamuya karşı bir sorumluluktur.
+- İnsanları konuşturmaya başladığınızda, söyledikleri şeylere sanki değerli bir hediyeye göz kulak oluyormuşsunuz gibi davranın.
+- Özlülüğe gelince, inanılmaz derecede seçici olun. Bir sahili tasvir ediyorsanız -kıyıya kayalar saçılmıştı- ya da -arada bir martılar geçiyordu- yazmayın. Kıyılarda genelde kayalar olur ve üzerlerinden martılar geçer. Bilindik her şeyi eleyin: Bize denizin dalgalı ve kumun beyaz olduğunu söylemeyin. Önemli olan ayrıntılar bulun. Anlatımınız açısından önem arz edebilirler; sıra dışı, renkli, komuk ya da eğlenceli olabilirler. Ama işe yaradıklarından emin olun.
+- Bir yazar olarak ana göreviniz, hakkında yazdığınız yerin temel fikrini bulmaktır.
+- Hangi yer hakkında yazıyor olursanız olun, orayı diğer yerlerden ayıran belirleyici özellikleri tespit edebilecek kadar sık gidin.
+- Türkiye’de iki tarz insan olduğunu fark edersiniz: taşıyanlar ve oturanlar. Hiç kimse bir Türk kadar rahat, ustaca ve halinden memnun bir şekilde oturamaz; vücudunun her bir bölgesiyle oturur; bizzat suratı oturur.
+- Önemsiz şeylerle önemli şeyleri ayrıştırın.
+- Bir yazar olarak yazabileceğiniz konular arasında en iyi bildiğiniz konu kendinizsiniz: geçmişiniz ve şimdiniz, düşünceleriniz ve duygularınız. Yine de büyük ihtimalle hakkında yazmaktan en çok kaçındığınız konu da bu.
+- Kim için yazdığınız sorusuna gelince, kimseyi memnun etmek için fazla istekli olmamanızı öneririm.
+- İyi bir anı yazısı yazabilmek için kendi hayatınızın editörü olmalı, tam hatırlamadığınız düzensiz ve dağınık olayları bir anlatımla sunmalı ve fikirleri organize etmelisiniz. Anı yazısı, gerçeği icat etme sanatıdır.
+- Kişisel tarihinizi yazarken sunabileceğiniz en iyi hediye kendinizsiniz. Kendinize kendiniz hakkında yazmanıza izin verin ve bunun tadını çıkarın.
+- Yazmak, dil öğretmeninizin himayesinde olan özel bir dil değildir. Yazmak, kağıt üzerinde düşünmektir. Berrak düşünebiliyorsanız, berrak yazabilirsiniz, hem de aklınıza gelebilecek her konuda.
+- Bilim hakkında yazmayı baş aşağı duran bir piramit olarak düşünün. En alttan, okuyucunun daha fazlasını öğrenebilmesi için bilmesi gereken bir bilgiyle başlayın. İkinci cümle ilk cümlede belirtilen şeyi açıp piramidi genişletmeli ve üçüncü cümle de ikinci cümle üzerinde aynı etkiyi yaratmalı. Böylece bir bilginin yavaş yavaş ötesine, önemi ve teorisine geçebilirsiniz.
+- Okuyucularınızın bilindik olmayan gerçekleri anlamalarını sağlamak için yapabileceğiniz şeylerden biri de onların tanıdık olduğu görsel bir şeyle bağlantı kurmaktır. Soyut prensibi gözlerinde canlandırabilecekleri görsel bir imgeye indirgeyin.
+- İyi yazabilmek için -yazar- olmaya gerek yoktur.
+- Güven veren dört başlığımı saydım: açıklık, basitlik, özlülük ve insanlık. Etken fiiller kullanmaktan ve kavram bildiren isim kullanımından uzak durulması gerektiğinden bahsettim.
+- Bir idareci belli bir kademeye çıktıktan sonra kimse ona basit açıklayıcı bir cümlenin güzelliğini göstermiyor, ya da yazısının cafcaflı genellemelerle nasıl şişirilmiş durduğunu belirmiyordur.
+- İnsan iletişimine büyük bir özlem var, aynı zamanda insanlar tumturaklı sözlere içerlemiş durumdalar. … Açık ve kişisel olma zahmetine girmeyen her şirket, arkadaş, müşteri ve para kaybedecektir. İş idarecileri için farklı bir şekilde söyleyeyim: öngörülen karlılıkta bir düşük deneyimlenecektir.
+- Ortada çok fazla kibir var. Her kademedeki yöneticiler basit bir tarzın basit bir aklın yansıması olduğu kanısının esiriler. Aslında basit bir tarz çok çalışmanın ve çok düşünmenin eseridir; karmaşık bir tarz ise düzensiz düşünen, burnu kalkık, aptal ya da düşüncelerini organize etmeyecek kadar tembel birisinin göstergesidir.
+- Bir şirketi hareketlendirmenin yolu kayıp -ben-in yerini tespit etmektir. Unutmayın -ben-, bütün hikayelerdeki en ilginç elementtir.
+- Onları eşsiz yapan özellikeri terk etmişler. Yüksek teknoloji ile o kadar meşguller ki sahip oldukları en güçlü aletlerin iyi ya da kötü olsun kelimeler oluduğunu unutuyorlar.
+- İşiniz veya kademeniz ne olursa olsun eğer bir kurum için çalışıyorsanız yazarken kendiniz olun. Robotların arasında gerçek bir insan olarak göze çarpacaksınız.
+- Yazıları kimin kazandığını okumak için okuyoruz, ama okurken keyif almıyoruz.
+- Oyuncunun ismini tekrarlamaktan ve detayları basit tutmaktan asla korkmayın.
+- Spor hakkında yazmak istiyorsanız, hakkında yazdığınız insanların çok zor bir şey yaptıklarını ve bir onurları olduğunu unutmayın. Siz de kendi onur kodları olan bir iş yapıyorsunuz. Bunlardan biri, hikayenin siz olmadığıdır.
+- Spor hakkında yazıyorsanız, aramanız gereken türden değerler işte bunlar: insanlar ve yerler, zaman ve geçiş.
+- Sezar’ı gömmek, onu övmekten çok daha kolaydır.
+- Eleştirmenler eleştirdikleri şeyi sevmeliler. Filmlerin aptalca olduğunu düşünüyorsanız, filmler hakkında yazmayın. Okuyucu bilgili, tutkulu ve önyargılı bir film tutkununu hak ediyor.
+- İçerik hakkında fazla şey açık etmeyin. Okuyucuya gittiklerinde hoşlarına gidecekleri bir hikaye olup olmayacağını anlayabilecekleri kadar bilgi verin. Çok fazla verip onları alacakları zevkten mahrum etmeyin.
+- Başka bir ilke de spesifik detaylar kullanmaktır. Böyle yaparak genelleme yapmaktan kurtulursunuz. Genellemelerin hiç bir anlamı yoktur. -Bu oyun her zaman büyüleyici- der tipik eleştirmen. Ama nasıl büyüleyici?
+- Bir tiyatro oyununu değerlendirirken bize sadece sahne düzeninin çarpıcı olduğunu söylemeyin. Farklı düzeylerinden bahsedin, nasıl ustaca kurgulandığını anlatın, ya da aktörlerin giriş ve çıkışlarını geleneksel bir düzenlemeye nispeten nasıl kolaylaştırdığını açıklayın. Okuyucularınızı tiyatro koltuğuna oturtun. Sizin gördüğünüz şeyi onların da görmesine yardım edin.
+- Eleştirmen olmak istiyorsanız, uzmanlaşmak istediğiniz daldaki külliyat hakkında iyi bilgi sahibi olun.
+- Eleştirmenler, bariz bir şekilde doğru olduğunu düşündüğümüz gerçekliklerimizin yanlış olabileceği ortaya çıktığında, bize haber vermesi gereken ilk kişilerdir.
+- İyi bir eleştiri nasıl başlamalı? Okuyucularınızı girmek üzere oldukları özel dünyaya doğru bir an önce yönlendirmelisiniz. Okuyucularınız eğitimli kişiler olsa da onlara belli bilgileri hatırlatmakta fayda var. Onları suya atıp hemen yüzmelerini bekleyemezsiniz. Suyun ısınması gerek. Bu dediğim özellikle edebi eleştiri için geçerli.
+- Mizah, kendi narin metabolizmasıyla hayatta kalabilecek ayrı bir organizma değildir. Dili zaten iyi kullanan bazı yazarlara bahşedilmiş özel bir bakış açısıdır. Özünde gülünç olan hayat hakkında yazmıyorlar; özünde ciddi olan hayat hakkında yazıyorlar, ama gözleri, ciddi umutların kaderin bir cilvesiyle komik duruma düştüğü alanlara kayıyor -istediklerimiz ve başardıklarımız arasında-.
+- -Taklit ederek öğrenmelisiniz.- S. J. Perelman
+- Hayattan beslenen bir mizahçının malzemesi asla bitmez.
+- Konunuza uysun diye sesinizin tınısını değiştirmeyin. Sayfada duyduklarında okuyucularınızın tanıyacağı bir tını geliştirin.
+- Okuyucular eğer onları küçümsediğinizi hissederlerse okumayı bırakacaklardır. Kimse büyüklük taslamayı sevmez.
+- Başka bir yazarı taklit etmekten asla çekinmeyin. Bir sanat ya da zanaatı öğrenen herkes için taklit, yaratım sürecinin bir parçasıdır.
+- -İzm- ile biten kelimeler anlamı tartışmaya açık bir kavram belirtir ve insanın içini bayar.
+- Kendi mirasınız, dolayısıyla kaçınılmaz olduğunu düşündüğünüz şeyin peşinden gidin. Onu kabullenirseniz, bizi belagata ulaştırabilir.
+- Yazmak çok yalnızlık içeren bir iş olduğu için kendimi neşeli tutmaya çalışıyordum. Yazma sürecinde bir şey bana komik geliyorsa, sırf kendimi eğlendirmek için bunun yazıya girmesine izin veriyorum. Eğer ben komik buluyorsam başka birilerinin de bunu komik bulabileceğini düşünüyorum ve günün sonunda bu bana iyi çıkarılmış bir iş gibi geliyor.
+- Cüret etmek, coşkunluk ve neşe, ve en önemlisi de cüret etmek. Okuyucu, yazarın iyi hissettiğini hissetmek zorunda. Yazar kendini iyi hissetmese de.
+- Bir alana girdiğinizde ve bir güven aşısına ihtiyaç duyduğunuzda bunu hatırlayın. En sağlam itimatname kendinizsiniz.
+- Yazınızın haz vermesini istiyorsanız, saygı duyduğunuz insanlar hakkında yazın. Yok etmek veya skandal yaratmak için yazmak, konu için olduğu kadar yazar için de yıkıcı olabilir.
+- Nesir yazarları için kıssadan hisse: projenize geniş bir açıdan bakın.
+- Konunun sınırlarını genişletin ve sizi nereye götürdüğüne bakın. İçine kendi hayatınızdan bir şeyler koyun; o hikayeyi siz yazana kadar, hikayenin siz tarafından yazılmış versiyonu haline gelmez.
+- Eğer araçları ustalıkla kullanmayı öğrenirseniz, röportajın ve düzenli oluşturmanın esaslarını ve eğer projenize zekanızı ve insanlığınızı katarsanız, her konu hakkında yazabilirsiniz. İşte bu ilginç bir hayata giden biletiniz.
+- Biz kazanan sonuca tapan bir kültürüz.
+- Süreç içerisinde kazanılan daha az parlak şeylere, öğrenme, bilgelik, olgunlaşma, özgüven, başarısızlıkla başa çıkma aynı derecede saygı duyulmaz çünkü notlandırılamazlar.
+- Bazı yollar işe yarar, bazıları yaramazdı. Başarısız olma hakkı özgürleştiriciydi.
+- Yazmak karakterle ilintilidir. Eğer değerleriniz sağlamsa, yazdıklarınız da sağlam olacaktır. Her şey niyetle başlar. Neyi nasıl yapmak istediğinizi bulun ve insanlığınızı ve bütünlüğü kullanarak yazınızı bitirmeye çalışın. Sonra elinizde satacak bir şey olur.
+- Okuyucularınızın fark etmesi gereken tek şey, sizin yolculuğu iyi bir şekilde planlamış olmanızdır. Her daim kaçınılmazmış gibi durmalı.
+- Toplamak için çok zahmete girdiğiniz materyale karşı duyduğunuz vazgeçmeme duygusu, anlatmayı seçtiğiniz hikayede çok önemli bir yere sahip değilse, hikayeye dahil etmek için yeterli bir sebep değildir. Mazoşizme varan bir kendini sınırlama gereklidir. O kadar materyalin kaybı için tek avuntunuz, tamamen kayıp olmadığıdır; yazınızın içinde okuyucunuzun hissedebildiği soyut bir şey olarak yer alır. Okuyucular her zaman için sizin konu hakkında yazdığınızdan daha çok şey bildiğinizi hissetmeliler.
+- -Bu bana mantıklı gelmişti-, iyimserlere her şey mantıklı gelir.
+- Ne yapmak istediğinize karar verin. Sonra yapmaya karar verin. Sonra yapın.
+- Anılar kaydedilemeden sahipleriyle ölür ve daha var dediğiniz zaman bir bakmışsınız geçip gitmiş.
+- Yazmak güçlü bir araştırma mekanizmasıdır ve sunduğu tatminlerden biri sizi hayatınızın akışıyla hesaplaştırmasıdır.
+- Kendiniz olursanız okuyucularınız da gittiğiniz yere sizinle gelirler. Bir yazım eylemi yapmaya çalışırsanız okuyucularınız kendilerini kurtarmak için gemiden atlayacaklardır. Ürününüz sizsiniz. Anı yazısı ve özgeçmişteki kritik alışveriş siz ve hatırladığınız deneyimler ve duygular arasındaki alışveriştir.
+- Bence en güçlü anı yazıları, hatırlanan bir zaman ve mekanın bütünlüğünü muhafaza edenlerdir.
+- Anı yazısı yazmaya niyetlenen çoğu insanın projenin büyüklüğünden gözü korkar. Bu kaygı yüzünden çoğu proje ya yıllarca bitirelemez ya da zaten hiç başlanmaz.
+- Anı yazısınız baş karakterinin kendiniz olduğunu unutmayın -tur rehberi. Anlatmak istediğiniz hikayenin anlatım şeklini belirlemeli ve kontrolü asla elden bırakmamalısınız. Bunun anlamı, anı yazınızdan orada bulunmasına gerek olmayan insanları çıkartmanız demek. Kardeşler gibi.
+- Son indirgeme nasihatim iki kelimeyle özetlenebilir: küçük düşünün.
+- Aklınızda kalmış küçük hikayelerin kendi yankıları vardır. Onlara güvenin.
+- Unutmayın: En başarılı hikayeleriniz genellikle konudan ziyade önemle ilgili olacaktır -belli bir durumda ne yaptığınız değil, o durumun sizi nasıl etkileyip, şu anki kişi olmanıza nasıl yol açtığı.
+- İki yolculuk arkadaşı arasında seçim yapacağımız zaman genelde yolculuğu zevkli hale getirebileceğini düşündüğümüz olan kişiyi seçeriz.
+- Yazarlar için en kötü anlardan biri, editörün yapmaya çalıştıkları şeyi fark etmemiş olmasıdır.
+- Eğer yarattığınız farklılığın düzenlenme sırasında çıkarılmasına izin verirseniz bütün değerlerinizi kaybedersiniz. Değerinizi de kaybedersiniz.
+- Bir keresinde bir muhabir ona nasıl sürekli bu kadar iyi oynayabildiğini sordu ve o da şöyle dedi: -Hep tribünde beni daha önce hiç izlememiş biri olduğunu düşünürüm ve onu hayal kırıklığına uğratmak istemem.-

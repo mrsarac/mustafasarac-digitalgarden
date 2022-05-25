@@ -1,0 +1,181 @@
+# Aklında Kalsın
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_406868/8f496419-d763-4939-89ce-613b4b998ee3.jpg)
+
+## Metadata
+- Author: [[Peter C. Brown - Henry L. Roediger - Mark A. McDaniel]]
+- Full Title: Aklında Kalsın
+- Category: #books
+
+## Highlights
+- Ana fikirlerin aralıklı olarak tekrar edilmesi ve ilişkili ama farklı olan konuların araya serpiştirilmesi.
+- Öğrenen kişiler bir konuya çalışırken bunu belli bir süreye yayar ve belirli aralıklıklarla konuya tekrar dönerlerse onu daha kolay hatırlarlar.
+- Öğrenme konusunda iyiyseniz hayatta avantaj sahibi olursunuz.
+- Öğrenme, edinilen bir beceridir.
+- Öğrenme çaba gerektirdiğinde daha derin ve kalıcı olur.
+- Metni tekrar okuma en etkisiz öğrenme stratejilerinden birisidir.
+- Bir metni okuduktan ya da bir dersi dinledikten sonra yapılan basit bir sınav, metni tekrar okumaktan ya da ders notlarını tekrar etmekten daha iyi öğrenme ve hatırlama sağlar.
+- Periyodik çalışma unutmayı engeller, geri çağırma yollarını güçlendirir.
+- Size verilmeden önce bir problemi çözmeye çalışmak hatalar yapılsa bile daha iyi öğrenmeye neden olur.
+- Karma ve çeşitlendirilmiş çalışmalar blok çalışmadan daha verimlidir.
+- Detaylandırma yaptığınızda öğrenebileceklerinizin bilinen bir sınırı yoktur.
+- Detaylandırma yeni öğrenilen bir şeyi kendi cümlelerinizle ifade ederek ve daha önce öğrendikleriniz ile ilişkilendirerek ona anlam verme sürecidir.
+- Detaylandırmayı ne kadar iyi yaparsanız, bilgiyi daha sonra hatırlayabilmeniz için daha çok bağlantı yaratırsınız.
+- Pek çok insan entelektüel kapasitelerinin doğuştan geldiğini ve değiştirilemez olduğunu düşünür ve herhangi bir şeyi öğrenemediklerinde bunun nedenini ilgili konuda doğuştan yetenekli olmadıklarına bağlarlar. Ama yeni bir şey öğrendiğinizde beyninizi değiştirirsiniz.
+- Entelektüel becerilerimizi şekillendiren şeyler, sizin kontrolünüz altındadır.
+- İnsanlar bir şeye yeterince maruz kaldıklarında onu belleklerine kazıyabileceklerini düşünüyorlar.
+- Öğrenme ne kadar zorsa o kadar güçlü ve kalıcı olur.
+- Blok çalışmalar sonucu edinilen bilgi geçicidir ve çabuk unutup gider.
+- Tekrar okumanın üç olumsuz sonucu vardır: Çok zaman alır. Bellekte kalıcı olmaz. Bir nevi kendini kandırmaya neden olur.
+- Çalışmaya harcanan zaman öğrenmenin bir ölçütü değildir.
+- Deney, 2 gruba aynı materyal verilir. 1. grup iki kere okur, diğer gruptan biraz fazla olsa da daha sonraki sınavda bilgi düzeyleri eşitlenmiştir. Başka bir grup ilk okumadan birkaç gün sonra tekrar okurlar ve diğer gruplara göre daha iyi sonuç aldıkları görülür.
+- Yakın aralıklarla birden fazla okuma, boşa zaman harcamak olur. Daha az zaman alacak etkili stratejilere kıyasla faydası önemsenmeyecek ölçüdedir.
+- Bir dersi öğrenmek onun ardındaki fikirleri öğrenmek ile aynı değildir. Tekrarlanan okuma altta yatan fikirlerin öğrenildiği yanılsamasını yaratır.
+- Bilgi olmadan analiz, sentez ve yaratıcı problem çözme gibi becerilere sahip olamazsınız.
+- İnsan bildiklerini pratikte uygulayamaz eğer uygulayacak bir şey bilmiyorsa.
+- Sınavı bir öğrenme aracı olarak kullanın.
+- İllinois Colombiya'da bir ortaokuldaki deneyde öğrencilere bir dersin ilk kısmını 3 ayrı minik sınav yaparak tamamladılar, geri kalan kısmı içinde sınav yapılmadı ama 3 kere tekrar edildi. Bir ay sonra yapılan sınavda sınav yapılan kısım için A- alınırken, tekrar edilen kısım ortalaması C+ idi.
+- Sınavlar bilgiyi pekiştirmek için en faydalı yollardan birisidir.
+- Yanılsamalar güçlü ikna edicilerdir. Ne bildiğimiz ile ilgili en iyi yol düzenli olarak kendimizi sınamaktır.
+- İstikamet açısı hesaplama: Belirli bir yüksekliğe çıkıp ufukta bir nesneyi görmek, pusulayı ayarlamak ve hedefe ne kadar ilerlediğimizden emin olmak için iyi bir fırsat yaratır.
+- Yüzdesi küçük quizler (düşük riskli quizler), uygulama ve kendini sınama, çalışma arasında boşluk bırakma, farklı ama ilgili konuları karma çalışmak, çözüm öğrenilmeden önce bir problemi çözmeye çalışmak, problem türlerinin farklılaştırması geri çağırma çalışmasının çeşitli biçimleridir.
+- Ayak - Ayakkabı çiftini bütün olarak çalışanlar, ayak-aya...bı gibi bariz bir ipucu ile çalışanlara göre daha az hatırladılar. Bu üretme etkisinin kanıtlanmasıydı.
+- Çaba gerektiren geri çağırma daha güçlü öğrenme ve akılda kalıcılık sağlar.
+- Ertelenmiş geri çağırma daha çok çaba gerektirir. İlk sınavdan sonra, ertelenmiş geri çağırma çalışması anlık geri çağırma çalışmasına göre akılda tutmayı daha fazla destekler.
+- Yoğun blok çalışma anlık bir sınavda daha iyi sonuçlara neden olsa da bu avantaj hızla kaybolur.
+- Derse sadece bir sınav (geri çağırma çalışması) eklemek, final sınavında büyük gelişmeye sebep olur.
+- Sınavlardan sonra düzeltici geri bildirim sağlamak yanlış anlaşılan materyali düzeltmeye yardımcı olur ve daha iyi öğrenme sağlar.
+- Çalışmalarınızı harmanlayın.
+- 90 santim ötedeki kovaya fasulye atanlar ile 60 ile 120 santim ötedeki kovaya atanlara göre 90 santimlik kova atma testinde daha başarısız oldular. İkinci grup hiç 90 cm ye atmamasına rağmen daha başarılı oldular.
+- Araştırmalar, aralarında zamanlar aralıkları olan farklı öğrenme dilimleri çalışmanın çok daha etkili olduğunu gösteriyor.
+- Blok çalışma verimsizdir.
+- Doktorların yarısı dört üniteyi bir günde tamamladı. Diğer yarısı aralarında birer hafta aralıklarla tamamladı. Blok çalışma yapanların hepsi aralıklı çalışma yapanlara göre çok daha başarısız oldular.
+- Biraz unuttuktan sonra öğrenmeyi geri çağırmak belliği daha güçlendirmeye faydası vardır.
+- İki veya daha fazla konuyu ve beceriyi eş zamanlı ve dönüşümlü olarak çalışmak, blok çalışmadan çok daha verimlidir.
+- Problemleri küme halinde çalışan öğrenciler ilk sınavda %89 alırken karmaşık sırada çalışanlar %60 doğru yaptılar. Bir hafta sonra yapılan ikinci sınavda ise ilk grup %20 doğru yaparken ikinci grup %63 doğru yaptı. Final sınavı sonuçları %215 oranında iyileşme gözlemlendi.
+- Karıştırarak çalışma şekli, aslında ilk öğrenmede performansı sekteye uğratır. Daha yavaş hissettirir.
+- Dönüşümlü çalışmak diğer yönteme göre daha yavaş öğrenme hissettirir.
+- Hayat şu şekilde işler: Problemler karşımıza öngörülemez bir şekilde karışık olarak çıkarlar.
+- Kanıtlarını bizzat yaşayan siz olsanız bile blok çalışma efsanelerini içinizden çekip atmak zordur.
+- Aralık bırakma, dönüşümlü çalışma ve çeşitlendirme gözle görünür bir şekilde anlık kazanımı yavaşlatırlar çabalarımızı motive eden, çalışma sırasındaki gelişimi sağlamakta başarısız olurlar.
+- İneklemek (blok çalışma) çok şey yiyip kusmaya benzer. Geriye pek bir şey kalmaz.
+- Parça parça çalışmak, pratiği zamana yaymak ve bunlar arasında zaman geçmesine izin vermek, hem öğrenmeyi hem de belliği daha güçlü kılar ve gerçek bir alışkanlık gücü inşa eder.
+- Ne kadar aralık? : Çalışmayı biraz unutacak kadar zaman geçmesine izin vermek.
+- Uyku belliğin güçlenmesinde önemli bir role sahiptir. Bu yüzden çalışma zamanları arasında en az bir gün süre bırakmak iyidir.
+- Sebastian Leitner, aralıklı çalışma için Leitner kutusu sistemini geliştirdi.
+- Leitner kutusunun altında yatan fikir, öğrenmede daha iyi oldukça çalışmanın daha nadir olmasıdır.
+- Aşinalık tuzağına dikkat.
+- Çalışma sırasında iki ya da daha fazla konuyu **aynı anda** dönüşümlü çalışmak bir aralık bırakma biçimidir.
+- Dönüşümlü çalışmada bir konuyu tamamen bitirdikten sonra diğerine geçmek yerine her bir çalışma tamamlanmadan önce seti değiştirirsiniz.
+- Tek tek becerileri çalışmaya kıyasla, karışık çalışma daha yavaş ilerleme sağlar ama daha kalıcıdır.
+- Dönüşümlü çalışma gibi çeşitlendirilmiş çalışma öğrenenlerin geniş bir şema inşa ederek değişen konuları değerlendirmelerine ve buna uygun tepkiler uyarlamalarına yardımcı olur.
+- Tartışmalı biçimde dönüşümlü çalışma ve çeşitlendirme, öğrenilenlerin ezberlenmesinin ötesinde daha yüksek seviyede kavramsal öğrenmeye ve uygulamaya geçmesini sağlar, daha kapsamlı, derin ve kalıcı öğrenme inşa eder. Motor becerilerde bu durum, altta yatan alışkanlık gücü olarak ortaya çıkar.
+- Aralık bırakma, dönüşümlü çalışma ve çeşitlilik hayatlarımızın doğal özellikleridir.
+- Doug Larsen: **Asıl fark yaratan beyni çalıştırmak; daha karmaşık ağlar oluşturuyor, sonra bu devreleri tekrar ve tekrar kullanıyorsunuz ve bu onları daha güçlü yapıyor**.
+- Beynin yeni öğrenmeyi nasıl pekiştirdiğine uygun bir benzetme de bir makale yazmak olabilir. İlk taslak gevşek ve özensizdir. Yazmayı deneyerek söylemek istediğiniz şeyi bulursunuz. Birkaç düzeltmeden sonra metin keskinleşir ve fazlalık olan noktaları çıkarırsınız. **Mayalanması için bir kenara bırakırsınız. ** Bir veya iki gün sonra elinize aldığınızda zihninizde söylemek istediğiniz şey netleşmiştir.
+- Belleğin biraz gerilemesine izin verdiğinizde, geri çağırma daha zordur, performansınız daha az başarılıdır ve hayal kırıklığına uğramış hissedersiniz, ama öğrenmeniz daha derinleşmiştir ve **gelecekte daha kolay geri çağırırsınız. **
+- Öğrenme, hatırlama ve unutma ilginç biçimlerde bir arada çalışırlar.
+- Derinlere gömülü olduğunda bilgi daha dayanıklıdır.
+- Bilgi ve beceriyi geri çağırmak için ne kadar çok çaba harcarsanız geri çağırma çalışması bunu o kadar sağlamlaştırır.
+- Bir konuyu ne kadar çok unutursanız, yeniden öğrenmenin, kalıcı öğrenmenizi şekillendirmesi daha etkili olur.
+- Nasıl çözüleceği size gösterilmeden önce bir problemi çözmek için uğraşmanız istenildiğinde, sonrasında sunulan çözüm daha iyi öğrenilir ve daha kalıcı biçimde hatırlanır.
+- Bir metindeki harfler atlandığında, okuyucunun onu kendisinin koyması gerektiğinde, okuma yavaşlıyor ve akılda tutma daha iyi oluyor. Ama zorluk anlamı tamamen belirsizleştirirse veya aşılamazsa öğrenme gelişmez.
+- Üretme: bir problemi çözmeye girişme eylemidir.
+- Sadece boşlukları doldurma eylemi daha sonra bunu hatırlama becerinizi güçlendirecektir.
+- Sınavda çoktan seçmeli seçenekler arasından seçmek yerine, tek bir cevap verme gerekliliği daha güçlü öğrenme faydası sağlar.
+- Cevabı kısa bir paragraf şeklinde yazma zorunluluğu ise öğrenmeyi daha güçlü yapar.
+- Bir çözme girişiminde bulunmak ve yanlış cevap vermek hiç denememekten daha iyidir.
+- Yansıtma: Öğrenilmiş olanları gözden geçirmek için birkaç dakika ayırmak ve kedinize soru sormaktır.
+- Ana fikirler nelerdir? Örnekler nelerdir? Bunlar zaten bildiklerimle nasıl alakalı olabilir? Neler iyi gitti? Neler daha iyi olabilirdi. Daha iyi sonuçlar elde edebilmek için başka neleri öğrenmeye ihtiyacım var.
+- Öğrenme için kendi cümlelerin ile yaz.
+- Öğrenenler hata yaptıklarında doğru bilgi ile geri bildirim aldıklarında daha güçlü öğrenme ve uzun süre akılda kalıcılık sağlıyor.
+- Nasıl yapılacağını göstermeden birisinden problemi çözmesini istemek gibi hatayla sonuçlanma ihtimali yüksek olan durumlarda bile öğrenme daha kalıcı oluyor.
+- Başarısızlık, beceriksizliğin bir ölçüsü ve yolun sonu olarak değil, bir çaba işareti ve dönüm noktası olarak gör.
+- Deneylerin sonuçlarına göre; Sınama, aralık bırakma, dönüşümlü hale getirme, çeşitlendirme, daha güçlü öğrenme ve akılda tutmaya neden olur.
+- Öğrenme her zaman ön bilgi üzerine inşa edilir. Zaten bildiklerimizle bağlantılar kurarak olayları yorumlar ve hatırlarız.
+- Uzun süreli bellik kapasitesi sınırsızdır. Ne kadar çok bilirseniz yeni bilgi eklemek için o kadar çok olası bağlantınız olur.
+- Tekrarlanan kullanım ve geri çağırma ipuçları sayesinde bilgi hatırlama kolaylaşır.
+- Öğrenmeyi periyodik olarak geri çağırmak bellekteki bağlantıları ve hatırlamak için ipuçlarını güçlendirir.
+- Çalışma ne kadar zor ise, faydası o kadar fazla olur.
+- Tekrarlanan bir çaba gerektiren hatırlama veya çalışma, öğrenmenin zihinsel modellere aktarılmasına yardımcı olur.
+- Çalışma koşulları çeşitli olduğunda, konular dönüşümlü olduğunda çok yönlülük becerimizi arttırırız.
+- Dönüşümlü çalışma ve çeşitlendirme bellekteki bilgiyi genişleterek onu daha derinlere gömecek ve geri çağırma ipuçlarının sayısını arttıracak.
+- Cevabı görmeden onu bulmaya çalışmak, çözümü görmeden çözmeye çalışmak doğru cevap ve çözümün daha uzun süre akılda kalmasını sağlar. Cevap yanlış olsa bile.
+- Acemilik, nasıl yapacağınızı bilmeden projenize başlamak anlamına geliyor. **Benim için neye bulaştığınızı anlama riski, başlamak için aşılmaz bir engel oluyor** - Bonnie Blodgett
+- Bizim için duygusal değeri en fazla olanları hatırlarız.
+- Aralıklı sınavlar yapın, çalışmanızı eşitlendirin ve uzun vadeli düşünün
+- Entelektüel beceri seviyeniz sabit değil, büyük oranda kendi elinizdedir. Bunun da öğrenme ve performans üzerinde etkisi olur.
+- Sıkı çalışıp yeni bir şey öğrendiğinizde beyin yeni bağlantılar kurar ve bu yeni bağlantılar zaman içinde sizi daha akıllı yapar.
+- Bazı insanlar zorluklarla karşılaştığında çaresiz hissedip başarısız olurken, bazıları başarısızlığa karşı yeni stratejiler dener ve çabalarını arttırır.
+- Başarısızlığı kendi beceriksizliğine bağlayanlar -**zeki değilim**- çaresizleşiyorlar. Başarısızlığı yetersiz çabanın veya etkisiz bir stratejinin sonucu olarak yorumlayanlar daha çok çabalıyorlar ve farklı yaklaşımlar deniyorlar.
+- Paradoksal olarak, performansa odaklanmak bazı yıldız atletlerin başarısız olmasına neden oluyor.
+- Çabayı vurgulamak, çocuğa kontrol edebilecekleri olağanüstü bir değişken verir. **Doğal zekayı vurgulamak, bunun çocuğun kontrolünden alır ve bir başarısızlığa verilebilecek iyi bir tepki değildir** - Dweck
+- Başarısızlık size faydalı bilgi sağlar ve kararlı olduğunuzda neler yapabileceğinizi keşfetmenizi sağlar.
+    - Tags: [[başarısızlık]] [[favorite]] 
+- Daha yüksek öğrenme ve başarı için, bir kişiye olasılık hissi, yaratıcılık ve sebat aşılayan disiplin, dayanıklılık ve ısrardır.
+- Araştırma ve öğrenme becerileri aktif bir bileşen tarafından harekete geçirilene kadar hareketsizdirler. Aktif bileşen, becerilerinizi arttırmanın büyük oranda kendi kontrolünüzde olduğunun anlaşılmasıdır. Bu basit ama bir o kadar derindir!
+- Uzmanlık performansı genetik bir eğilim değil, çalışmanın niceliğinin ve niteliğinin ürünüdür. Uzman olmak, bunun peşinden giden, motivasyonu, zamanı ve disiplini olan normal yetenekli insanların yapabileceği bir şeydir.
+- Hafıza Sarayı inşaası: Oxford Psikoloji öğrencileri A seviye sınavına hazırlanmak için İngiltere'nin çeşitli kafelerine eğitimcileri ile beraber gezip, orada birer kahve içip, sınavda yardımcı olacak canlı karakterler ile kafeyi nasıl dolduracaklarını konuşurlar.
+    - Tags: [[favorite]] 
+- İnsanlar resimleri sözcüklerden daha kolay hatırlar.
+- Güçlü bir zihinsel görüntü, dolu bir balık oltası kadar sağlam ve bağlayıcı olabilir.
+- Çaba sarf ederek öğrenme beyni değiştirir, yeni bağlantılar ve kapasiteler inşa eder.
+- Entelektüel becerilerimiz doğuştan itibaren bizim şekillendirmemize açıktır.
+- Çaba becerinin sınırlarını genişletir. Yaptığımız şey kim olduğumuzu ve neler yapabileceğimizi şekillendirir.
+- Daha çok yaptıkça daha fazlasını yapabiliriz. Bu prensibi benimseyerek ve faydalarını gördükçe büyümeyi ömür boyu sürdürebiliriz.
+- Sizi oyuna sokacak ve orada tutacak şey, öğrenme becerisinde ustalaşmaktır.
+- Çaba göstererek öğrenme, beyninizi değiştirir, yeni bağlantılar kurar, zihinsel modeller inşa eder ve yeteneklerinizi arttırır. Bunun sonucu güçlüdür: Entelektüel becerileriniz büyük oranda kendi kontrolünüzdedir. Bunu bilmek zorluklarla uğraşmaya değer kılar.
+- Bilgi ve beceriyi bellekten geri çağırma, tekrar okuma yerine geçecek temel stratejiniz olmalıdır.
+- *** Kendinize notları okuduğunuzda şu soruları sorun: Ana fikirleri nelerdir. Hangi terimler veya fikirler benim için yeni. Bunları nasıl tanımlarım. Fikirler zaten bildiklerimle nasıl ilişkili.
+- Kendiniz için sorular üretmek ve yanıtları yazmak da iyi bir yöntemdir.
+- Sınavları bilginin zayıf olduğu alanları tanımlamak için kullanın ve çalışmalarınızı bu alanları güçlendirecek şekilde odaklayın.
+- Yeni öğrenmenin çalışması ne kadar zor ise, bunu yapmanın faydası da o kadar büyük olur.
+- Yanıtları kontrol ettiğinde ve yanlışları düzelttiğinde hata yapmak sizi geriletmez.
+- Metni bir veya iki defa gözden geçirdikten sonra kendinizi sınamak, öğrenmek için bir kere daha yeniden okumaktan çok daha güçlüdür.
+- Tekrar okuma, metne aşinalık yanılsaması yaratır.
+- Sınama neler öğrendiğinize ve neleri öğrenmeniz gerektiğine dair güvenilir bir ölçü sağlar. Ve dahası sınama unutmayı durdurur.
+- Unutmak insan doğasında vardır ama yeni öğrenilenleri hatırlama çalışması bunu bellekte sağlamlaştırır ve gelecekte hatırlamanıza yardımcı olur.
+- Yeni bilgi ve becerileri kendinizi sınayarak periyodik olarak çalışmak öğrenmenizi ve bunu önceki bilgiler ile ilişkilendirmenizi güçlendirir.
+- Yeniden okumaya göre garip ve kafa karıştırıcı hissettirir.
+- Bilgi veya becerileri geri çağırma çabası, akılda kalma gücünü ve gelecekteki hatırlama becerinizi güçlendirir.
+- Aralıklı çalışma oturumları arasında zaman bırakın.
+- Bir dizi isim ya da yüz öğreniyorsanız bunları ilk karşılaşmanızdan sonra birkaç dakika içerisinde gözden geçirmelisiniz.
+- Metinler için ise 1 gün geçmesi gerekebilir.
+- Belirli bir materyali öğrendiğinizden emin olduğunuzda kendinizi ayda bir sınayın.
+- Yeni materyal için sınamalarda önceki materyali geri çağırmak için arkalara da uzanın ve kendinize bu bilginin daha sonra öğrendiklerinizle nasıl ilişkilendiğini sorun.
+- Hatırlamak istediğiniz her şey bellekten periyodik olarak geri çağrılmalıdır.
+- Çalışmayı iki veya daha fazla konuyla çeşitlendirin, bunlar arasında geçiş yapmak konuya her döndüğünüzde zihninizi tazelemenizi sağlar.
+- Çok fazla çalışma işe yarar ama sadece aralıklıysa.
+- Ana çalışma stratejisi olarak kendinizi sınamayı kullanın ve çalışmalarınızı biraz unutmaya izin verecek şekilde aralıklı yapın.
+- Farklı problem türlerini dönüşümlü olarak çalışın.
+- Yeni öğrendiklerinizi zaten bildiklerinizle nasıl ilişkili olduğunu ne kadar çok detaylandırırsanız yeni öğrenmeyi o kadar iyi kavrarsınız ve bunu daha sonra hatırlamak için o kadar çok bağlantınız olur.
+- Bir metindeki eksik kelimeyi doldurmak (yani senin yazman) tüm testi okumaktan daha iyi öğrenme ve metnin hatırlanmasını sağlar.
+- Önce kendiniz bilinmeyene dalıp onu çözmeye çalışırsanız çözümü daha iyi öğrenir ve hatırlarsınız.
+- Yeni bir çalışamaya başlamadan önce materyal içinde bulmayı umduğunuz ana fikirleri ve bunların daha önce bildiklerinizle ilişkisini açıklamayı deneyerek üretme çalışabilirsiniz.
+- Yansıtma: Neler iyi gitti, neler daha iyi gidebilirdi. Bu size başka hangi deneyim veya bilgileri hatırlatıyor. Konuya hâkim olmak için neler gerekli, bir sonrakine daha iyi bir strateji var mı?
+- Timohty Fellows
+- Her zaman dersten önce okuma yapıyor.
+- Okurken gelebilecek sınav sorularını ve soruların yanıtlarını tahmin ediyor.
+- Dersler sırasında aklında kalanları sınamak için kafasında cevabı açık olan sorular soruyor.
+- Çalışma kılavuzlarını gözden geçirip hatırlamadığı ya da bilmediği terimleri buluyor ve bunları yeniden öğreniyor.
+- Altı çizilen ve vurgulanan terimleri ve bunların tanımlarını bir okuma defterine geçiriyor ve anladığından emin oluyor.
+- Deneme sınavları yapıyor ve hangi kavramları bilmediğini keşfediyor ve bunları öğrenmeye çalışıyor.
+- Dersle ilgili bilgileri kendi tasarladığı çalışma kılavuzunda yeniden düzenliyor.
+- Ayrıntılı veya önemli kavramları yazıyor ve bunları yatağının üstüne asıyor ve zaman zaman bunlarla kendini sınıyor.
+- Gözden geçirmelerini ve çalışmalarını ders boyunca aralıklarla yapıyor.
+- **Materyali kendi sözcüklerinizle açıklama çabasına girerek, gerçekleri birbirine bağlayarak, canlandırarak ve zaten bildiklerinizle ilişkilendirerek yönlendirirsiniz. **
+- İnsanlara nasıl öğrenildiğiyle ilgili deneysel araştırmaların bulgularını açıklamak, öğretmenin rolüdür, böylece öğrenci kendi eğitimini daha iyi yönetebilir.
+- Öğrenme sırasında karşılaşılan bazı zorluklar öğrenmeni daha güçlü olmasına ve daha iyi hatırlamasına yardımcı olur.
+- Öğrenmek kolay olduğunda çoğu zaman yüzeyseldir ve kısa süre içerisinde unutulur.
+- Entelektüel becerinizin hepsi sabit değildir. Aslında çaba sarf edildiğinde, öğrenme yeni bağlantılar kurarak ve entelektüel beceriyi arttırarak beyni değiştirir.
+- Çözüm size sunulmadan önce yeni problemleri çözmeyi denerseniz daha iyi öğrenirsiniz.
+- Herhangi bir alanda mükemmelliğe ulaşmak için o anki beceri seviyenizi aşmak üzere çabalamalısınız.
+- Çabalamak doğası gereği çoğu zaman tersliklerle sonuçlanır ve bir konuda yeterliliği elde etmek için gerekli olan stratejileri belirlemek üzere ihtiyaç duyulan bilgiyi sağlayan da tersliklerdir.
+- Sık sık quizler uygulayın, notlara ufak etkileri olsun.
+- Geri çağırma çalışmasını, üretmeyi ve detaylandırmayı birleştiren çalışma araçları yaratın.
+- Konularda aralık bırakın, dönüşümlülük ve çeşitlilik yaratın.
+- Yapmanız gereken biraz okumak ve sonra kendinizi sınamak.
+- Her beş dakikada bir o materyal üzerine bir soru soruyorum ve notlarına bakan öğrencilere, sadece düşünmek için bir dakika ayırın diyorum. - Wenderoth
+- O bilgiye ne kadar çok giderseniz, patika o kadar belirgin olur ve böylece bilgiye bir daha ihtiyaç duyduğunuzda bulması daha kolay olur. Ama notlara baktığınız anda patikaya kısa devre yaparsınız. Artık patikayı keşfetmezsiniz. Birileri size yolu söylemiştir. - Wenderoth
+- Quizler istikamet açısı bulmanın yöntemidir. Gitmeye çalıştığınız yere varmak için gerekli ustalığı kazanıyor musunuz?
+- En etkili öğrenme stratejileri sezgiye dayalı olmayanlardır.
