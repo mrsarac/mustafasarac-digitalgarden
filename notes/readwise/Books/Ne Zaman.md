@@ -47,3 +47,14 @@
 - Şimdi kalan iki veya üç dakikanızı ertesi günün planını yapmaya ayırın. (Location 2321)
 ## New highlights added May 9, 2022 at 11:37 AM
 - Araştırmalar, nostaljinin olumlu bir ruh halini teşvik ettiğini, kaygı ve strese karşı koruma sağladığını ve yaratıcılığı artırdığını gösteriyor.8 (Location 2833)
+## New highlights added June 20, 2022 at 8:44 AM
+- Yapılan deneylerde, müzik ya da koku gibi faktörler kullanılarak nostaljik duygular uyandırıldığı zaman, insanlar soğuğa karşı daha dayanıklı oluyor ve ortam ısısını olduğundan daha yüksekmiş gibi algılıyorlar.10 (Location 2837)
+- Birçok araştırmada insanların şimdiki zamanda yaşadıkları deneyimleri gelecekte yeniden keşfetmenin değerini azımsadıkları görüldü. (Location 2879)
+- “Bugün yaşanan sıradan olayları kaydederek, şimdiki zamanı gelecek için bir ‘hediye’ haline getirebiliriz” diye yazıyor araştırmacılar.18 (Location 2880)
+- “Huşu deneyimleri insanları yaşadıkları ana odaklıyor, zaman algısı da bu nedenle değişiyor. O anda yaşanmakta olanlara odaklanmak, sadece zaman algısını değiştirmiyor, kararlarımızı etkiliyor ve hayatla ilgili normalden daha tatmin edici duygular doğuruyor.”20 (Location 2888)
+- Biz de zaman kiplerinin ötesine geçtik. Artık insan yaşamında başarılması gereken şey, geçmişi, şimdiyi ve geleceği birleştirmek. (Location 2896)
+- Yazı yazmak, ne düşündüğünüzü ve neye inandığınızı keşfetme eylemi olarak tanımlanabilir. (Location 2901)
+- Gündelik dalgaları yok saymamız gerektiğine inanıyordum, şimdi o dalgalarda sörf yapmamız gerektiğine inanıyorum. (Location 2902)
+- Öğle araları, şekerlemeler ve kısa yürüyüşlerin hoş şeylerden ibaret olduğuna inanıyordum, şimdi gerekli olduklarına inanıyorum. (Location 2903)
+- İşte, okulda veya evde kötü bir başlangıcı aşmak için silkinip yoluma devam etmek gerektiğine inanıyordum, şimdi baştan başlamanın ya da birlikte başlamanın daha iyi bir yaklaşım olduğuna inanıyorum. (Location 2904)
+- Her şeyin başının zamanlama olduğunu sanıyordum. Şimdi zamanlamanın her şeyin başı olduğuna inanıyorum. (Location 2911)

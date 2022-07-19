@@ -13,3 +13,6 @@
   ![](https://pbs.twimg.com/media/FQ4x2L0UUAYuDh6.jpg) ([View Tweet](https://twitter.com/ScottScheper/status/1517204935493881856))
 - @mrsarac Observations = brief thoughts while reading; Excerpts = quotes and prose; Reformulations = summaries, outlines, and diagrams; Reflections = long paragraphs containing your own opinion, experiences, interpretations, decisions, and conclusions about observation notes. ([View Tweet](https://twitter.com/ScottScheper/status/1517557500723093505))
     - Note: Gözlemler = okurken kısa düşünceler; Alıntılar = tırnak işaretleri ve nesir; Yeniden formülasyonlar = özetler, anahatlar ve diyagramlar; Yansımalar = gözlem notları hakkında kendi fikrinizi, deneyimlerinizi, yorumlarınızı, kararlarınızı ve sonuçlarınızı içeren uzun paragraflar.
+## New highlights added June 6, 2022 at 12:08 PM
+- Antinet Book diagrams being developed on flight to Israel 🗃📚🙌 Credit my lovely fiancé. https://t.co/RoeZ73YYXD
+  ![](https://pbs.twimg.com/media/FTy93YJWYAAgUUT.jpg) ([View Tweet](https://twitter.com/ScottScheper/status/1530306745209442311))

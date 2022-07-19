@@ -29,3 +29,6 @@
 - Mesela İtalyan devleti, kan bağışçılarına çalıştıkları işlerden izinli sayılma hakkı verdiğinde bağışların arttığı görüldü. [33] (Location 666)
 - "Performansı artırmak için basit bir teşvik vermek yerine bir hedef belirlenmeli, hedef bir uyarı ile sunulmalı ve yakından takip edilmelidir. "[34] İnsanların kendileri için belirledikleri ve beceri artırmaya yönelik olan hedefler, sağlıklı hedeflerdir. (Location 684)
 - Özerklik teorisine göre üç doğal psikolojik ihtiyacımız vardır: beceri sahibi olma, özerklik ve bağlılık. Bu ihtiyaçlar karşılandığında üretken, mutlu ve motive oluruz. (Location 977)
+## New highlights added June 20, 2022 at 8:44 AM
+-  (Location 1593)
+- (Oyunu şu adrese girerek siz de oynayabilirsiniz: http://intihuatani.usc.edu/cloud/flowing). (Location 1628)
