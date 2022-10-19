@@ -71,3 +71,7 @@ yarn-error.log
 node_modules
 node_modules.nosync
 .obsidian/*
+notes/logseq/config.edn
+notes/logseq/custom.css
+notes/logseq/metadata.edn
+notes/pages/contents.md

@@ -1,11 +1,12 @@
 ---
 updated: 04.03.2022
 ---
+
 # Anasayfa
 
-Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verdiğim ve hala üzerinde çalıştığım notlarımı ve blog yazılarımı bulabilirsin. Bu web sitesini hakkında bilgi almak için [[Web siteme ne oldu]] başlığına göz atabilirsin. 
-
+Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verdiğim ve hala üzerinde çalıştığım notlarımı ve blog yazılarımı bulabilirsin. Bu web sitesini hakkında bilgi almak için [[Web siteme ne oldu]] başlığına göz atabilirsin.
 ## Yazılarım
+- [[kişisel bilgi yönetimi üzerine 2]]
 - [[yazı tipinin öğrenmeye etkisi]]
 - [[okuduğum kitapları unutuyorum]]
 - [[kişisel bilgi yönetimi üzerine 1]]
@@ -21,17 +22,13 @@ Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verd
 - [[one-page-bir-tasarim-hikayesi-phione]]
 - [[taslaklar-yaparak-tasarim-problemlerini-cozmek]]
 - [[pomodoro-teknigini-bir-adim-ileri-tasimak]]
-
-
 ## Videolar
 - VitePress Kurulum
 - Pomodoro v2
 - Readwise ile alıntıları paylaşmak
 - Readwise ile yeni kitapları keşfetmek
-
 ## İlham verenler
 [[Derek Franklin]]
-
 ### Web to-do (yapılacaklar)
 - [ ] Default dark mode
 - [ ] Cookie consent
@@ -40,14 +37,12 @@ Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verd
 - [ ] comment module
 - [x] GA (nedense track etmiyor?)
 - [x] [[markdown test]] (istediğim gibi olmadı)
-
-
 ## İletişim
 [[kişisel bilgi yönetimi]] hakkında konuşmak istermisiniz?
 - [twitter.com/mrsarac](https://twitter.com/mrsarac)
 - mr.sarac@gmail.com
-
-:)  - [[Ne Zaman]]
-
   
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ce005a00-4fde-4ede-abfe-1f59285ae3bb/deploy-status)](https://app.netlify.com/sites/mustafasarac/deploys)
+  :)  - [[Ne Zaman]]
+  
+  
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/ce005a00-4fde-4ede-abfe-1f59285ae3bb/deploy-status)](https://app.netlify.com/sites/mustafasarac/deploys)
