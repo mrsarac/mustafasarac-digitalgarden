@@ -76,3 +76,6 @@ notes/logseq/custom.css
 notes/logseq/metadata.edn
 notes/pages/contents.md
 notes/logseq/pages-metadata.edn
+logseq/config.edn
+logseq/custom.css
+logseq/metadata.edn
