@@ -1,5 +1,5 @@
 - ![Yazı tipinin öğrenmeye etkisi](https://pbs.twimg.com/media/FSEe9reX0AES0u5?format=jpg&name=large)
-  title:: yazı tipinin öğrenmeye etkisi
+  title:: yazi
 - Kör bakış kitabında yazı tipinin öğrenmeye etkisinden bahsedilen ilginç bir bölüme denk geldim. Bir şey okurken; yazı tipinin daha zorlayıcı olması durumunda, metnin daha uzun süre hafızada kalmasının mümkün olduğundan bahsediyordu.
 - Bununla ilgili googlelama sonunda aşağıdaki bilgiye denk geldim. Çeviri, hafif düzeltme ile:
 - “Comic Sans, Gotik ve diğer düz olmayan yazı tiplerine gülebilirsiniz, ancak ezberlemeniz gereken bir sonraki listeyi hafızanıza çivilemenize yardımcı olabiliyorlarmış.

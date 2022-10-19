@@ -8,7 +8,7 @@ Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verd
 ## Yazılarım
 - [[kişisel bilgi yönetimi üzerine 2]]
 - [[yazı tipinin öğrenmeye etkisi]]
-- [[yazi tipinin ogrenmeye etkisi]]
+- [[yazi]]
 - [[okuduğum kitapları unutuyorum]]
 - [[kişisel bilgi yönetimi üzerine 1]]
 - [[kindle-giris]]
