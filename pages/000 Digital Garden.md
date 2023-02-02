@@ -6,10 +6,7 @@ updated: 04.03.2022
 
 Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verdiğim ve hala üzerinde çalıştığım notlarımı ve blog yazılarımı bulabilirsin. Bu web sitesini hakkında bilgi almak için [[Web siteme ne oldu]] başlığına göz atabilirsin.
 ## Yazılarım
-- [[kişisel bilgi yönetimi üzerine 2]]
 - [[yazı tipinin öğrenmeye etkisi]]
-- [[deneme]]
-- [[yazi]]
 - [[okuduğum kitapları unutuyorum]]
 - [[kişisel bilgi yönetimi üzerine 1]]
 - [[kindle-giris]]
