@@ -6,7 +6,7 @@
     "develop": "gatsby develop",
     "dev": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby develop",
     "start": "gatsby develop",
-    "build": "gatsby build",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby build",
     "clean": "gatsby clean"
   },
   "dependencies": {
