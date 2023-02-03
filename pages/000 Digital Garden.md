@@ -1,6 +1,9 @@
-- # mustafasarac.com
+# mustafasarac.com
+
 - Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verdiğim ve hala üzerinde çalıştığım notlarımı ve blog yazılarımı bulabilirsin. Bu web sitesini hakkında bilgi almak için [[Web siteme ne oldu]] başlığına göz atabilirsin.
-- ## Yazılarım
+
+## Yazılarım
+
 - [[yazi-tipinin-ogrenmeye-etkisi]]
 - [[okuduğum kitapları unutuyorum]]
 - [[kişisel bilgi yönetimi üzerine 1]]
@@ -16,17 +19,23 @@
 - [[one-page-bir-tasarim-hikayesi-phione]]
 - [[taslaklar-yaparak-tasarim-problemlerini-cozmek]]
 - [[pomodoro-teknigini-bir-adim-ileri-tasimak]]
-- ## Videolar
+
+## Videolar
+
 - [Pomodoro Tekniğini nasıl bir adım ileri taşırsınız?](https://www.youtube.com/watch?v=Iy82xNocUVE)
 - [Kitap alıntılarını Readwise'a eklemek 📚 (Kısa video)](https://www.youtube.com/watch?v=-dfob-GfuEc)
 - [Readwise ile yeni kitapları keşfetmek](https://www.youtube.com/watch?v=ZkRmCk6Dgxk)
 - [Readwise ile kitap notunu twitter üzerinden paylaşmak](https://youtu.be/Oow65yQ-eFU?t=9)
 - [VitePress Kurulum, VitePress 101 - .md dosyalarıyla kolayca web sitesi yapın](https://www.youtube.com/watch?v=L86HVmtqKbc)
-- ## Diğer
+
+## Diğer
+
 - [[Derek Franklin]]
 - [[Web to-do]]
 - [[Ne Zaman]]
-- ## İletişim
+
+## İletişim
+
 - [[kişisel bilgi yönetimi]] hakkında konuşmak istermisiniz?
 - [https://twitter.com/mrsarac](https://twitter.com/mrsarac)
 - https://medium.com/@mrsarac
