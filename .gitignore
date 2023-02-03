@@ -79,3 +79,6 @@ notes/logseq/pages-metadata.edn
 logseq/config.edn
 logseq/custom.css
 logseq/metadata.edn
+
+# Logseq
+logseq/bak/*

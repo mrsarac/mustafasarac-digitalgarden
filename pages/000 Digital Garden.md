@@ -1,10 +1,6 @@
----
-updated: 04.03.2022
----
-
-# Anasayfa
-
-Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verdiğim ve hala üzerinde çalıştığım notlarımı ve blog yazılarımı bulabilirsin. Bu web sitesini hakkında bilgi almak için [[Web siteme ne oldu]] başlığına göz atabilirsin.
+- # mustafasarac.com
+  
+  Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verdiğim ve hala üzerinde çalıştığım notlarımı ve blog yazılarımı bulabilirsin. Bu web sitesini hakkında bilgi almak için [[Web siteme ne oldu]] başlığına göz atabilirsin.
 ## Yazılarım
 -
 - [[yazi-tipinin-ogrenmeye-etkisi]]
@@ -23,15 +19,19 @@ Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verd
 - [[taslaklar-yaparak-tasarim-problemlerini-cozmek]]
 - [[pomodoro-teknigini-bir-adim-ileri-tasimak]]
 - ## Videolar
-- VitePress Kurulum
-- Pomodoro v2
-- Readwise ile alıntıları paylaşmak
-- Readwise ile yeni kitapları keşfetmek
+- [Pomodoro Tekniğini nasıl bir adım ileri taşırsınız?](https://www.youtube.com/watch?v=Iy82xNocUVE)
+- [Kitap alıntılarını Readwise'a eklemek 📚 (Kısa video)](https://www.youtube.com/watch?v=-dfob-GfuEc)
+- [Readwise ile yeni kitapları keşfetmek](https://www.youtube.com/watch?v=ZkRmCk6Dgxk)
+- [Readwise ile kitap notunu twitter üzerinden paylaşmak](https://youtu.be/Oow65yQ-eFU?t=9)
+- [VitePress Kurulum, VitePress 101 - .md dosyalarıyla kolayca web sitesi yapın](https://www.youtube.com/watch?v=L86HVmtqKbc)
+- ## Eski yazılar
+-
 - ## Diğer
 - [[Derek Franklin]]
 - [[Web to-do]]
 - [[Ne Zaman]]
 ## İletişim
 [[kişisel bilgi yönetimi]] hakkında konuşmak istermisiniz?
-- [twitter.com/mrsarac](https://twitter.com/mrsarac)
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/ce005a00-4fde-4ede-abfe-1f59285ae3bb/deploy-status)](https://app.netlify.com/sites/mustafasarac/deploys)
+- [https://twitter.com/mrsarac](https://twitter.com/mrsarac)
+- https://medium.com/@mrsarac
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/ce005a00-4fde-4ede-abfe-1f59285ae3bb/deploy-status)](https://app.netlify.com/sites/mustafasarac/deploys)

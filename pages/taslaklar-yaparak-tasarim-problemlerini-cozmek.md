@@ -1,13 +1,11 @@
-
+- medium: https://medium.com/@mrsarac/taslaklar-ile-tasar%C4%B1m-problemlerini-%C3%A7%C3%B6zmek-a5e90db7dbff
 # Taslaklar yaparak tasarım problemlerini çözmek
-
 ### **TASARIMI KİM YAPIYOR?**
 
 Tasarım yapmaya başladığımdan bu güne kadar bir çok firma ve müşteri ile çalıştım. Bu süreçte eskiden yaptığım işlerde müşteriye gösterme aşamasında yaptığım tasarımın revizyon gerektirmesi benim için büyük bir moral ve zaman kaybı oluşturuyordu. İnsan büyük bir sınav verir bu sırada. Bir şekilde tasarım işi bitiyor ama ondan sonra müşterinin geri bildirimleriyle (ki bazen cidden çok sert olabilir) tasarım tekrar şekilleniyor ve bazen de çıkan iş hiçbir şeye benzemiyordu. İş bittiğinde aslında bana ait olan bir tasarım değil, tamamen müşterinin istediği ve tasarımsal olarak bir yere gitmeyen (vizyona sahip olmayan) bir işe dönüşüyordu.
 
 Aşağıdaki sitede çok güzel örnekler var. Bu işleri yapanlar sizce tasarımcı mı? Yoksa müşteri mi?  
 <http://www.badturkishgraphics.com/>
-
 ### **Yaşadığım problemler**
 
 Yıllar boyunca bu sorunla bir tek ben karşılaşmadım. Etrafımdaki tasarımcıların da genelde kaderi böyle olduğunu gördüm. Bence kendi aramızda yaptığımız “Yazıyı bir tık aşağı kaydıralım, logoyu bir tık büyütelim” esprileri de bu konuyla birebir bağlantılı. Sorunun kaynağını bulmak ve bunu çözmek için çaba göstermediğiniz sürece de bu hep böyle olacak.
@@ -17,7 +15,6 @@ Müşterinin talebi genelde yaptığı işi ya da ürünü ön plana çıkaracak
 **Bir ilanın macerası:** <http://www.youtube.com/watch?v=F0pif2nGfzc>
 
 Burada orta noktayı bulmak için çalışması gereken tabi ki daha çok tasarımcı oluyor (Müşteride kendince çok zaman kaybediyor). Parasını ödeyecek olan müşteri elinde sonunda işi alacak. Ama tasarımcı o sırada başka işler yapamayacağından para kaybetmeye başlamış olur.
-
 ### **İşin altındaki psikoloji**
 
 Sonuç olarak tasarımcının yaptığı iş ne kendi içine siniyor ne de çevresine bu işi ben yaptım diyebiliyor. İşin motivasyonu Para olduğu için bundan yoksun kalmamak için Tasarımcı kendini doğru şeyi yaptığına inandırıyor ve müşteriden gelen bildirimlerle tasarımı içinden çıkılmaz bir hale getiriyor.
@@ -47,9 +44,7 @@ Eskiz olmadan gidilen bir iş süreci 🙂
 Eskiz ile:
 
 [![sketch2](/sketch2-300x200.png)](/sketch2.png)
-
 ### **Tasarım sürecinde doğru ilerlemek için nasıl yapıyorum?**
-
 - Müşteriden iş alınıyor ya da şirkette proje bana veriliyor. Bir şekilde iş bende.
 - İşin tanımlarken, bu ürünün ne işe yaracağını öğreniyorum.
 - Tasarımda neler olacağının belirlenmesi için sorular soruyorum. Menülerde neler olacak, yazılar neler, hangi tarz resimler. Notlarımı alıyorum.
@@ -73,11 +68,10 @@ Eskiz ile:
 - Müşteriden tasarım sürecini baştan aldıracak kararlar artık son dakikada gelmiyor.
 - Logo’yu birde sağda deneyelim kısmı kağıt ve mockup üzerinde yapıldığından artık tasarım’da bunları denemeye gerek kalmıyor.
 - **Sonuç BAŞARILI İŞ, Mutlu tasarımcı, mutlu müşteri. Zamandan ve paradan tasarruf.**
-
-Benim yöntemim böyle işliyor. Tabi artık kendi projelerimi yaptığım için müşteride patron da ben oluyorum. Ama yine de süreç değişmiyor. Eskiz ve Mockup kısmında sevdiğim arkadaşlarımdan, tasarım gücünün kuvvetli olduğunu inandığım insanlardan yorumlar almadan nihayi tasarıma başlamıyorum.
-
-**Tasarımda başarı bence burada gizli.**
-
+  
+  Benim yöntemim böyle işliyor. Tabi artık kendi projelerimi yaptığım için müşteride patron da ben oluyorum. Ama yine de süreç değişmiyor. Eskiz ve Mockup kısmında sevdiğim arkadaşlarımdan, tasarım gücünün kuvvetli olduğunu inandığım insanlardan yorumlar almadan nihayi tasarıma başlamıyorum.
+  
+  **Tasarımda başarı bence burada gizli.**
 ### Bağlantılar
 
 Online olduğu için genellikle bu siteyi kullanıyorum.  
@@ -91,4 +85,3 @@ Tasarımlarını yaptıktan sonra yine paylaşarak yorum almaktan çekinmeyin
 Örnekler [https://dribbble.com/search?q=wireframe&amp;s=latest](https://dribbble.com/search?q=wireframe&s=latest%20)  
 Konu hakkında daha detaylı bir anlatım  
 <http://webmagazin.co/tasarim-sureci-nasil-olmali/>
- 
