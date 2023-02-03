@@ -4,12 +4,14 @@
   "version": "0.0.1",
   "scripts": {
     "develop": "gatsby develop",
+    "dev": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
     "clean": "gatsby clean"
   },
   "dependencies": {
     "gatsby": "^2.32.13",
+    "gatsby-plugin-google-analytics": "^5.5.0",
     "gatsby-theme-garden": "^0.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
