@@ -2,6 +2,8 @@
 
 - Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verdiğim ve hala üzerinde çalıştığım notlarımı ve blog yazılarımı bulabilirsin. Bu web sitesini hakkında bilgi almak için [[Web siteme ne oldu]] başlığına göz atabilirsin.
 
+- Not: digital gardean olayına geçtikten sonra, web sitesimi güncelleme sıklığımın düştüğünü farkettim. şu an yeni bir şeyler, ya da mevcut bir şeyleri düzenleyerek bu sayfayı yenileme sürecindeyim. selamlar. 04.12.2023
+
 ## Yazılarım
 
 - [[yazi-tipinin-ogrenmeye-etkisi]]
