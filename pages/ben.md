@@ -1,19 +1,19 @@
 ![ben](/ben.png)
 
-Merhaba, ben Mustafa Saraç. Teknoloji tutkunu bir yazılımcı, tasarımcı ve müzisyenim. 2000 yılından beri web tasarım ve geliştirme alanında çalışıyorum. Sabancı Üniversitesi'nde Bilgi Teknolojileri yüksek lisansımı tamamladım.
+Hello, I'm Mustafa Saraç. I'm a technology enthusiast, software developer, designer, and musician. I've been working in web design and development since 2000. I completed my master's degree in Information Technologies at Sabancı University.
 
-Kariyerim boyunca Türkiye'nin önde gelen medya şirketlerinde çalıştım. UX testleri yaptım, web arayüzleri tasarladım ve bunların hayata geçirilmesinde aktif rol aldım. Bir dönem 5 kişilik bir frontend ekibine liderlik ettim. Şu anda Almanya'nın Köln şehrinde yaşıyor ve TOMRA Sorting Digital ekibinde front-end developer olarak çalışıyorum.
+Throughout my career, I've worked for leading media companies in Turkey. I conducted UX tests, designed web interfaces, and played an active role in bringing them to life. For a period, I led a frontend team of 5 people. Currently, I'm living in Cologne, Germany, and working as a front-end developer for the TOMRA Sorting Digital team.
 
-İşim dışında da üretken olmayı seviyorum. 15 yıldır amatör olarak davul çalıyorum ve son bir yıldır cajon çalmayı öğreniyorum. Aktif olarak bir müzik grubunda yer alıyor ve küçük konserler veriyoruz.
+Outside of work, I love being productive. I've been playing drums as an amateur for 15 years and have been learning to play the cajon for the past year. I'm actively involved in a music band, and we give small concerts.
 
-Kişisel gelişime önem veriyorum. Her gün günlük tutuyorum, kitap okumayı ve zaman yönetimi üzerine araştırmalar yapmayı seviyorum. Kişisel bilgi yönetimi (PKM) konusuna özel ilgi duyuyorum ve bu alanda deneysel çalışmalar yapıyorum. Hatta kısa bir süre için kendi not alma uygulamam olan Phinote'u geliştirdim ve yayınladım.
+I value personal development. I keep a daily journal, enjoy reading books, and like to research time management. I have a special interest in Personal Knowledge Management (PKM) and conduct experimental work in this area. I even developed and published my own note-taking application called Phinote for a short time.
 
-Fikirlerimi paylaşmayı seviyorum. Kişisel blogumda düzensiz aralıklarla yazılar yazıyor, YouTube kanalımda içerik üretiyorum. Ayrıca, haftalık bir e-posta bülteni ile ilgi alanlarımla ilgili keşiflerimi paylaşıyorum.
+I enjoy sharing my ideas. I write articles on my personal blog at irregular intervals and create content on my YouTube channel. Additionally, I share my discoveries related to my areas of interest through a weekly email newsletter.
 
-Bisikletle gezmeyi, yürümeyi ve yürürken düşünmeyi seviyorum. Bu aktiviteler sırasında zihnimin açıldığını ve yaratıcı fikirler ürettiğimi fark ettim. Kendi kendime konuşarak problemleri çözmeyi etkili bir yöntem olarak kullanıyorum.
+I love cycling, walking, and thinking while walking. I've noticed that during these activities, my mind opens up and I generate creative ideas. I use talking to myself as an effective method for solving problems.
 
-Eşim Ayşegül ve oğlum Jerfi ile birlikte 2020 yılından beri Köln'de yaşıyoruz. Bu yeni yaşam deneyimi, bana farklı kültürler ve iş yapış şekilleriyle tanışma fırsatı sundu.
+My wife Ayşegül, my son Jerfi, and I have been living in Cologne since 2020. This new life experience has given me the opportunity to encounter different cultures and ways of working.
 
-Hızlı düşünüp çabuk cevap verme eğilimim var, bu bazen zayıf noktam olabiliyor. Ancak kafama koyduğum işi bitirme konusundaki kararlılığım, en sevdiğim özelliklerimden biri.
+I have a tendency to think quickly and respond promptly, which can sometimes be a weakness. However, my determination to finish a task once I set my mind to it is one of my favorite qualities.
 
-Teknoloji, tasarım, müzik ve kişisel gelişim alanlarındaki deneyimlerimi paylaşmaktan ve yeni şeyler öğrenmekten her zaman keyif alıyorum. Eğer benimle iletişime geçmek isterseniz, sosyal medya hesaplarımdan veya e-posta yoluyla bana ulaşabilirsiniz.
+I always enjoy sharing my experiences in technology, design, music, and personal development, and learning new things. If you'd like to get in touch with me, you can reach me through my social media accounts or via email.
