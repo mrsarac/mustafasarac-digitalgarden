@@ -2,12 +2,12 @@
 
 - Merhaba ben Mustafa. Dijital bahçeme hoş geldin. Burada paylaşmaya karar verdiğim ve hala üzerinde çalıştığım notlarımı ve blog yazılarımı bulabilirsin. Bu web sitesini hakkında bilgi almak için [[Web siteme ne oldu]] başlığına göz atabilirsin.
 
-- Not: digital gardean olayına geçtikten sonra, web sitesimi güncelleme sıklığımın düştüğünü farkettim. şu an yeni bir şeyler, ya da mevcut bir şeyleri düzenleyerek bu sayfayı yenileme sürecindeyim. selamlar. 04.12.2023
+- Not: digital gardan olayına geçtikten sonra, web sitesimi güncelleme sıklığımın düştüğünü farkettim. şu an yeni bir şeyler, ya da mevcut bir şeyleri düzenleyerek bu sayfayı yenileme sürecindeyim. selamlar. 04.12.2023
 
 ## Yazılarım
 
-- [[yazi-tipinin-ogrenmeye-etkisi]]
 - [[okuduğum kitapları unutuyorum]]
+- [[yazi-tipinin-ogrenmeye-etkisi]]
 - [[kişisel bilgi yönetimi üzerine 1]]
 - [[kindle-giris]]
 - [[yazilari-hizli-bir-sekilde-webde-yayimlamak]]
@@ -39,6 +39,7 @@
 ## İletişim
 
 - [[kişisel bilgi yönetimi]] hakkında konuşmak istermisiniz?
-- [https://twitter.com/mrsarac](https://twitter.com/mrsarac)
-- https://medium.com/@mrsarac
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/ce005a00-4fde-4ede-abfe-1f59285ae3bb/deploy-status)](https://app.netlify.com/sites/mustafasarac/deploys)
+- [https://twitter.com/mustafasaracAI](https://twitter.com/mustafasaracAI)
+- https://medium.com/@mustafasaracAI
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ce005a00-4fde-4ede-abfe-1f59285ae3bb/deploy-status)](https://app.netlify.com/sites/mustafasarac/deploys)
